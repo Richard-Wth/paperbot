@@ -1,0 +1,4220 @@
+{
+    "results": [
+        {
+            "id": "d9962ac22c7d7d0a1ad20c10dd0792da4befd8b4",
+            "corpusId": 3573613,
+            "title": {
+                "text": "Sedimentary processes of the Bagnold Dunes: Implications for the eolian rock record of Mars",
+                "fragments": [
+                    {
+                        "start": 0,
+                        "end": 11
+                    },
+                    {
+                        "start": 72,
+                        "end": 76
+                    }
+                ]
+            },
+            "slug": "Sedimentary-processes-of-the-Bagnold-Dunes:-for-the-Ewing-Lapotre",
+            "paperAbstract": {
+                "text": "Abstract The Mars Science Laboratory rover Curiosity visited two active wind‐blown sand dunes within Gale crater, Mars, which provided the first ground‐based opportunity to compare Martian and terrestrial eolian dune sedimentary processes and study a modern analog for the Martian eolian rock record. Orbital and rover images of these dunes reveal terrestrial‐like and uniquely Martian processes. The presence of grainfall, grainflow, and impact ripples resembled terrestrial dunes. Impact ripples were present on all dune slopes and had a size and shape similar to their terrestrial counterpart. Grainfall and grainflow occurred on dune and large‐ripple lee slopes. Lee slopes were ~29° where grainflows were present and ~33° where grainfall was present. These slopes are interpreted as the dynamic and static angles of repose, respectively. Grain size measured on an undisturbed impact ripple ranges between 50 μm and 350 μm with an intermediate axis mean size of 113 μm (median: 103 μm). Dissimilar to dune eolian processes on Earth, large, meter‐scale ripples were present on all dune slopes. Large ripples had nearly symmetric to strongly asymmetric topographic profiles and heights ranging between 12 cm and 28 cm. The composite observations of the modern sedimentary processes highlight that the Martian eolian rock record is likely different from its terrestrial counterpart because of the large ripples, which are expected to engender a unique scale of cross stratification. More broadly, however, in the Bagnold Dune Field as on Earth, dune‐field pattern dynamics and basin‐scale boundary conditions will dictate the style and distribution of sedimentary processes.",
+                "fragments": [
+                    {
+                        "start": 217,
+                        "end": 228
+                    },
+                    {
+                        "start": 288,
+                        "end": 292
+                    },
+                    {
+                        "start": 1262,
+                        "end": 1273
+                    },
+                    {
+                        "start": 1318,
+                        "end": 1322
+                    },
+                    {
+                        "start": 1653,
+                        "end": 1664
+                    }
+                ]
+            },
+            "paperAbstractTruncated": "Abstract The Mars Science Laboratory rover Curiosity visited two active wind‐blown sand dunes within Gale crater, Mars, ...",
+            "authors": [
+                [
+                    {
+                        "name": "R. Ewing",
+                        "ids": [
+                            "145657190"
+                        ],
+                        "slug": "R.-Ewing",
+                        "bitmap$0": false
+                    },
+                    {
+                        "text": "R. Ewing",
+                        "fragments": []
+                    }
+                ],
+                [
+                    {
+                        "name": "M. G. Lapotre",
+                        "ids": [
+                            "1439857791"
+                        ],
+                        "slug": "M.-G.-Lapotre",
+                        "bitmap$0": false
+                    },
+                    {
+                        "text": "M. G. Lapotre",
+                        "fragments": []
+                    }
+                ],
+                [
+                    {
+                        "name": "K. Lewis",
+                        "ids": [
+                            "143671882"
+                        ],
+                        "slug": "K.-Lewis",
+                        "bitmap$0": false
+                    },
+                    {
+                        "text": "K. Lewis",
+                        "fragments": []
+                    }
+                ],
+                [
+                    {
+                        "name": "M. Day",
+                        "ids": [
+                            "50379671"
+                        ],
+                        "slug": "M.-Day",
+                        "bitmap$0": false
+                    },
+                    {
+                        "text": "M. Day",
+                        "fragments": []
+                    }
+                ],
+                [
+                    {
+                        "name": "N. Stein",
+                        "ids": [
+                            "35944279"
+                        ],
+                        "slug": "N.-Stein",
+                        "bitmap$0": false
+                    },
+                    {
+                        "text": "N. Stein",
+                        "fragments": []
+                    }
+                ],
+                [
+                    {
+                        "name": "D. Rubin",
+                        "ids": [
+                            "9216016"
+                        ],
+                        "slug": "D.-Rubin",
+                        "bitmap$0": false
+                    },
+                    {
+                        "text": "D. Rubin",
+                        "fragments": []
+                    }
+                ],
+                [
+                    {
+                        "name": "R. Sullivan",
+                        "ids": [
+                            "49103293"
+                        ],
+                        "slug": "R.-Sullivan",
+                        "bitmap$0": false
+                    },
+                    {
+                        "text": "R. Sullivan",
+                        "fragments": []
+                    }
+                ],
+                [
+                    {
+                        "name": "S. Banham",
+                        "ids": [
+                            "104607184"
+                        ],
+                        "slug": "S.-Banham",
+                        "bitmap$0": false
+                    },
+                    {
+                        "text": "S. Banham",
+                        "fragments": []
+                    }
+                ],
+                [
+                    {
+                        "name": "M. P. Lamb",
+                        "ids": [
+                            "143785554"
+                        ],
+                        "slug": "M.-P.-Lamb",
+                        "bitmap$0": false
+                    },
+                    {
+                        "text": "M. P. Lamb",
+                        "fragments": []
+                    }
+                ],
+                [
+                    {
+                        "name": "N. Bridges",
+                        "ids": [
+                            "143778711"
+                        ],
+                        "slug": "N.-Bridges",
+                        "bitmap$0": false
+                    },
+                    {
+                        "text": "N. Bridges",
+                        "fragments": []
+                    }
+                ],
+                [
+                    {
+                        "name": "S. Gupta",
+                        "ids": [
+                            "46414637"
+                        ],
+                        "slug": "S.-Gupta",
+                        "bitmap$0": false
+                    },
+                    {
+                        "text": "S. Gupta",
+                        "fragments": []
+                    }
+                ],
+                [
+                    {
+                        "name": "W. Fischer",
+                        "ids": [
+                            "46471057"
+                        ],
+                        "slug": "W.-Fischer",
+                        "bitmap$0": false
+                    },
+                    {
+                        "text": "W. Fischer",
+                        "fragments": []
+                    }
+                ]
+            ],
+            "structuredAuthors": [
+                {
+                    "firstName": "R.",
+                    "middleNames": [],
+                    "lastName": "Ewing"
+                },
+                {
+                    "firstName": "M.",
+                    "middleNames": [
+                        "G."
+                    ],
+                    "lastName": "Lapotre"
+                },
+                {
+                    "firstName": "K.",
+                    "middleNames": [],
+                    "lastName": "Lewis"
+                },
+                {
+                    "firstName": "M.",
+                    "middleNames": [],
+                    "lastName": "Day"
+                },
+                {
+                    "firstName": "N.",
+                    "middleNames": [],
+                    "lastName": "Stein"
+                },
+                {
+                    "firstName": "D.",
+                    "middleNames": [],
+                    "lastName": "Rubin"
+                },
+                {
+                    "firstName": "R.",
+                    "middleNames": [],
+                    "lastName": "Sullivan"
+                },
+                {
+                    "firstName": "S.",
+                    "middleNames": [],
+                    "lastName": "Banham"
+                },
+                {
+                    "firstName": "M.",
+                    "middleNames": [
+                        "P."
+                    ],
+                    "lastName": "Lamb"
+                },
+                {
+                    "firstName": "N.",
+                    "middleNames": [],
+                    "lastName": "Bridges"
+                },
+                {
+                    "firstName": "S.",
+                    "middleNames": [],
+                    "lastName": "Gupta"
+                },
+                {
+                    "firstName": "W.",
+                    "middleNames": [],
+                    "lastName": "Fischer"
+                }
+            ],
+            "year": {
+                "text": "2017",
+                "fragments": []
+            },
+            "venue": {
+                "text": "Journal of geophysical research. Planets",
+                "fragments": []
+            },
+            "citationContexts": [],
+            "citationStats": {
+                "citedByBuckets": [
+                    {
+                        "startKey": 2016,
+                        "endKey": 2016,
+                        "count": 1
+                    },
+                    {
+                        "startKey": 2017,
+                        "endKey": 2017,
+                        "count": 9
+                    },
+                    {
+                        "startKey": 2018,
+                        "endKey": 2018,
+                        "count": 16
+                    },
+                    {
+                        "startKey": 2019,
+                        "endKey": 2019,
+                        "count": 6
+                    },
+                    {
+                        "startKey": 2020,
+                        "endKey": 2020,
+                        "count": 11
+                    },
+                    {
+                        "startKey": 2021,
+                        "endKey": 2021,
+                        "count": 6
+                    }
+                ],
+                "keyCitedByBuckets": [],
+                "numCitations": 49,
+                "estNumCitations": 12.76442765020402,
+                "numReferences": 119,
+                "numKeyCitations": 3,
+                "numKeyReferences": 7,
+                "numViewableReferences": 119,
+                "keyCitationRate": 0.061224489795918366,
+                "citationVelocity": 11.0,
+                "firstCitationVelocityYear": 2018,
+                "lastCitationVelocityYear": 2020
+            },
+            "earliestAcquisitionsDate": 1522733694.525481000,
+            "sources": [
+                "Medline",
+                "PubMedCentral",
+                "Anansi",
+                "MAG",
+                "MergedPDFExtraction",
+                "MAG",
+                "Unpaywall",
+                "ScienceParseMerged"
+            ],
+            "journal": {
+                "name": "Journal of Geophysical Research. Planets",
+                "volume": "122",
+                "pages": "2544 - 2573"
+            },
+            "socialLinks": [],
+            "presentationIds": [],
+            "presentationUrls": [],
+            "doiInfo": {
+                "doi": "10.1002/2017JE005324",
+                "doiUrl": "https://doi.org/10.1002/2017JE005324"
+            },
+            "links": [
+                {
+                    "url": "https://www.ncbi.nlm.nih.gov/pubmed/29497590",
+                    "linkType": "medline"
+                }
+            ],
+            "primaryPaperLink": {
+                "url": "https://www.ncbi.nlm.nih.gov/pubmed/29497590",
+                "linkType": "medline"
+            },
+            "alternatePaperLinks": [
+                {
+                    "url": "https://doi.org/10.1002/2017je005324",
+                    "linkType": "openaccess"
+                },
+                {
+                    "url": "https://doi.org/10.1002/2017JE005324",
+                    "linkType": "doi"
+                }
+            ],
+            "entities": [
+                {
+                    "id": "1377",
+                    "name": "slope",
+                    "slug": "slope"
+                },
+                {
+                    "id": "4360",
+                    "name": "Stratification",
+                    "slug": "Stratification"
+                },
+                {
+                    "id": "10184",
+                    "name": "Environmental Wind",
+                    "slug": "Environmental-Wind"
+                },
+                {
+                    "id": "7022367",
+                    "name": "Oenothera psammophila",
+                    "slug": "Oenothera-psammophila"
+                },
+                {
+                    "id": "744",
+                    "name": "Inference",
+                    "slug": "Inference"
+                },
+                {
+                    "id": "6169",
+                    "name": "Null Value",
+                    "slug": "Null-Value"
+                },
+                {
+                    "id": "13060",
+                    "name": "Height",
+                    "slug": "Height"
+                },
+                {
+                    "id": "350",
+                    "name": "Greater",
+                    "slug": "Greater"
+                },
+                {
+                    "id": "702920",
+                    "name": "UDPglucose 4-epimerase deficiency disease",
+                    "slug": "UDPglucose-4-epimerase-deficiency-disease"
+                },
+                {
+                    "id": "6851",
+                    "name": "lobe",
+                    "slug": "lobe"
+                }
+            ],
+            "entityRelations": [],
+            "blogs": [],
+            "videos": [],
+            "githubReferences": [],
+            "faqs": [],
+            "scorecardStats": [
+                {
+                    "typeKey": "cited_by",
+                    "citationCount": 49,
+                    "keyCitationCount": 3,
+                    "score": 10.0
+                }
+            ],
+            "externalContentStats": [],
+            "fieldsOfStudy": [
+                "Geology",
+                "Medicine"
+            ],
+            "openAccessInfo": {
+                "license": "CCBYNCND",
+                "status": "HYBRID",
+                "location": {
+                    "url": "https://doi.org/10.1002/2017je005324",
+                    "isPdf": false
+                }
+            },
+            "openAccessLocation": {
+                "url": "https://doi.org/10.1002/2017je005324",
+                "isPdf": false
+            },
+            "pubDate": "2017-12-01",
+            "pubUpdateDate": "2017-12-01",
+            "badges": [
+                {
+                    "id": "UNPAYWALL"
+                }
+            ]
+        },
+        {
+            "id": "14828a8901f98d06a964ff2667d24a8219dd595d",
+            "corpusId": 131969802,
+            "title": {
+                "text": "Fractured Sedimentary Rock Aquifers",
+                "fragments": [
+                    {
+                        "start": 10,
+                        "end": 21
+                    },
+                    {
+                        "start": 22,
+                        "end": 26
+                    }
+                ]
+            },
+            "slug": "Fractured-Sedimentary-Rock-Aquifers-Maliva",
+            "paperAbstract": {
+                "text": "Fractured sedimentary rock contains two domains, the fractures and adjoining rock matrix. Fractures often provide most of the aquifer transmissivity, whereas the bulk of water and solute storage may occur in the matrix. The concentration of flow in fractures, which constitutes a very minor part of the total volume of the strata, results in greater flow velocities and travel distances than would occur in single-porosity systems. Characterization of fractured aquifers typically involves a multiple-method approach that includes identification of fractures, determination of whether or not identified fractures are hydraulically active, and determination of the hydraulic properties of the fractures and fractured zones. Fractured rock aquifers may be modeled using either a single-continuum (equivalent porous media), dual-continuum, or discrete fracture network approach.",
+                "fragments": [
+                    {
+                        "start": 10,
+                        "end": 21
+                    },
+                    {
+                        "start": 22,
+                        "end": 26
+                    },
+                    {
+                        "start": 77,
+                        "end": 81
+                    },
+                    {
+                        "start": 733,
+                        "end": 737
+                    }
+                ]
+            },
+            "paperAbstractTruncated": "Fractured sedimentary rock contains two domains, the fractures and adjoining rock matrix. Fractures often provide most o...",
+            "authors": [
+                [
+                    {
+                        "name": "R. Maliva",
+                        "ids": [
+                            "12634187"
+                        ],
+                        "slug": "R.-Maliva",
+                        "bitmap$0": false
+                    },
+                    {
+                        "text": "R. Maliva",
+                        "fragments": []
+                    }
+                ]
+            ],
+            "structuredAuthors": [
+                {
+                    "firstName": "R.",
+                    "middleNames": [],
+                    "lastName": "Maliva"
+                }
+            ],
+            "year": {
+                "text": "2016",
+                "fragments": []
+            },
+            "venue": {
+                "text": "",
+                "fragments": []
+            },
+            "citationContexts": [],
+            "citationStats": {
+                "citedByBuckets": [],
+                "keyCitedByBuckets": [],
+                "numCitations": 0,
+                "estNumCitations": 0.0,
+                "numReferences": 51,
+                "numKeyCitations": 0,
+                "numKeyReferences": 0,
+                "numViewableReferences": 51,
+                "keyCitationRate": 0.0,
+                "firstCitationVelocityYear": 2018,
+                "lastCitationVelocityYear": 2020
+            },
+            "earliestAcquisitionsDate": 1556288493.929000000,
+            "sources": [
+                "Unpaywall",
+                "MAG"
+            ],
+            "journal": {
+                "name": "",
+                "volume": "",
+                "pages": "517-544"
+            },
+            "socialLinks": [],
+            "presentationIds": [],
+            "presentationUrls": [],
+            "doiInfo": {
+                "doi": "10.1007/978-3-319-32137-0_17",
+                "doiUrl": "https://doi.org/10.1007/978-3-319-32137-0_17"
+            },
+            "links": [
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-32137-0_17",
+                    "linkType": "doi"
+                }
+            ],
+            "primaryPaperLink": {
+                "url": "https://doi.org/10.1007/978-3-319-32137-0_17",
+                "linkType": "doi"
+            },
+            "alternatePaperLinks": [],
+            "entities": [],
+            "entityRelations": [],
+            "blogs": [],
+            "videos": [],
+            "githubReferences": [],
+            "faqs": [],
+            "scorecardStats": [],
+            "externalContentStats": [],
+            "fieldsOfStudy": [
+                "Geology"
+            ],
+            "badges": []
+        },
+        {
+            "id": "90cc8a24b3774202f236c39f300b912b8fcd598d",
+            "corpusId": 205865711,
+            "title": {
+                "text": "Short and long term release mechanisms of arsenic, selenium and boron from a tunnel-excavated sedimentary rock under in situ conditions.",
+                "fragments": [
+                    {
+                        "start": 94,
+                        "end": 105
+                    },
+                    {
+                        "start": 106,
+                        "end": 110
+                    }
+                ]
+            },
+            "slug": "Short-and-long-term-release-mechanisms-of-arsenic,-Tamoto-Tabelin",
+            "paperAbstract": {
+                "text": "Sedimentary rocks of marine origin excavated from tunnel construction projects usually contain background levels of hazardous trace elements, but when exposed to the environment, they generate leachates with concentrations of arsenic (As), selenium (Se) and boron (B) exceeding the WHO guideline for drinking water. In this study, the leaching of As, Se and B was evaluated under in situ conditions at various flow patterns, particle size distributions and column thicknesses. The results showed that these trace elements were leached out of the rock via short and long term mechanisms. In the short term, all three elements were rapidly and simultaneously released due to the dissolution of soluble evaporite salts formed from entrapped sea water of the Cretaceous. After their rapid release, however, these trace elements behaved differently as a result of their contrasting adsorption affinities onto minerals like clays and Fe-oxyhydroxides, which were further influenced by the pH, presence of coexisting ions and speciation of the trace elements. Selenium was quickly and easily transported out of the columns because it was mostly present as the very mobile selenate ion (Se[VI]). In comparison, the migration of As and B was hindered by adsorption reactions onto mineral phases of the rock. Boron was initially the least mobile among the three because of its preferential adsorption onto clay minerals that was further enhanced by the slightly alkaline pH and high concentrations of Ca(2+) and Na(+). However, it was gradually re-mobilized in the latter part of the experiments because it was only weakly adsorbed via outer sphere complexation reactions. In the long term, the rock continued to release substantial amounts of As, Se and B via pyrite oxidation and adsorption/desorption reactions, which were regulated by the temperature and rainfall intensity/frequency on site.",
+                "fragments": [
+                    {
+                        "start": 0,
+                        "end": 11
+                    },
+                    {
+                        "start": 546,
+                        "end": 550
+                    },
+                    {
+                        "start": 1293,
+                        "end": 1297
+                    },
+                    {
+                        "start": 1685,
+                        "end": 1689
+                    }
+                ]
+            },
+            "paperAbstractTruncated": "Sedimentary rocks of marine origin excavated from tunnel construction projects usually contain background levels of haza...",
+            "authors": [
+                [
+                    {
+                        "name": "Shuichi Tamoto",
+                        "ids": [
+                            "47517339"
+                        ],
+                        "slug": "Shuichi-Tamoto",
+                        "bitmap$0": false
+                    },
+                    {
+                        "text": "Shuichi Tamoto",
+                        "fragments": []
+                    }
+                ],
+                [
+                    {
+                        "name": "C. B. Tabelin",
+                        "ids": [
+                            "13420673"
+                        ],
+                        "slug": "C.-B.-Tabelin",
+                        "bitmap$0": false
+                    },
+                    {
+                        "text": "C. B. Tabelin",
+                        "fragments": []
+                    }
+                ],
+                [
+                    {
+                        "name": "T. Igarashi",
+                        "ids": [
+                            "4866660"
+                        ],
+                        "slug": "T.-Igarashi",
+                        "bitmap$0": false
+                    },
+                    {
+                        "text": "T. Igarashi",
+                        "fragments": []
+                    }
+                ],
+                [
+                    {
+                        "name": "Mayumi Ito",
+                        "ids": [
+                            "50230928"
+                        ],
+                        "slug": "Mayumi-Ito",
+                        "bitmap$0": false
+                    },
+                    {
+                        "text": "Mayumi Ito",
+                        "fragments": []
+                    }
+                ],
+                [
+                    {
+                        "name": "Naoki Hiroyoshi",
+                        "ids": [
+                            "11036251"
+                        ],
+                        "slug": "Naoki-Hiroyoshi",
+                        "bitmap$0": false
+                    },
+                    {
+                        "text": "Naoki Hiroyoshi",
+                        "fragments": []
+                    }
+                ]
+            ],
+            "structuredAuthors": [
+                {
+                    "firstName": "Shuichi",
+                    "middleNames": [],
+                    "lastName": "Tamoto"
+                },
+                {
+                    "firstName": "C.",
+                    "middleNames": [
+                        "B."
+                    ],
+                    "lastName": "Tabelin"
+                },
+                {
+                    "firstName": "T.",
+                    "middleNames": [],
+                    "lastName": "Igarashi"
+                },
+                {
+                    "firstName": "Mayumi",
+                    "middleNames": [],
+                    "lastName": "Ito"
+                },
+                {
+                    "firstName": "Naoki",
+                    "middleNames": [],
+                    "lastName": "Hiroyoshi"
+                }
+            ],
+            "year": {
+                "text": "2015",
+                "fragments": []
+            },
+            "venue": {
+                "text": "Journal of contaminant hydrology",
+                "fragments": []
+            },
+            "citationContexts": [],
+            "citationStats": {
+                "citedByBuckets": [
+                    {
+                        "startKey": 2015,
+                        "endKey": 2015,
+                        "count": 1
+                    },
+                    {
+                        "startKey": 2016,
+                        "endKey": 2016,
+                        "count": 2
+                    },
+                    {
+                        "startKey": 2017,
+                        "endKey": 2017,
+                        "count": 6
+                    },
+                    {
+                        "startKey": 2018,
+                        "endKey": 2018,
+                        "count": 3
+                    },
+                    {
+                        "startKey": 2019,
+                        "endKey": 2019,
+                        "count": 11
+                    },
+                    {
+                        "startKey": 2020,
+                        "endKey": 2020,
+                        "count": 11
+                    },
+                    {
+                        "startKey": 2021,
+                        "endKey": 2021,
+                        "count": 6
+                    }
+                ],
+                "keyCitedByBuckets": [],
+                "numCitations": 40,
+                "estNumCitations": 59.465675442281956,
+                "numReferences": 73,
+                "numKeyCitations": 1,
+                "numKeyReferences": 5,
+                "numViewableReferences": 73,
+                "keyCitationRate": 0.025,
+                "citationVelocity": 8.333333333333334,
+                "citationAcceleration": 0.0,
+                "firstCitationVelocityYear": 2018,
+                "lastCitationVelocityYear": 2020
+            },
+            "earliestAcquisitionsDate": 1522736284.152955000,
+            "sources": [
+                "Unpaywall",
+                "Medline",
+                "ScienceParseMerged",
+                "MAG"
+            ],
+            "journal": {
+                "name": "Journal of contaminant hydrology",
+                "volume": "175-176",
+                "pages": "\n          60-71\n        "
+            },
+            "socialLinks": [],
+            "presentationIds": [],
+            "presentationUrls": [],
+            "doiInfo": {
+                "doi": "10.1016/j.jconhyd.2015.01.003",
+                "doiUrl": "https://doi.org/10.1016/j.jconhyd.2015.01.003"
+            },
+            "links": [
+                {
+                    "url": "https://www.ncbi.nlm.nih.gov/pubmed/25747140",
+                    "linkType": "medline"
+                }
+            ],
+            "primaryPaperLink": {
+                "url": "https://www.ncbi.nlm.nih.gov/pubmed/25747140",
+                "linkType": "medline"
+            },
+            "alternatePaperLinks": [
+                {
+                    "url": "https://doi.org/10.1016/j.jconhyd.2015.01.003",
+                    "linkType": "doi"
+                }
+            ],
+            "entities": [
+                {
+                    "id": "23390",
+                    "name": "Arsenic",
+                    "slug": "Arsenic"
+                },
+                {
+                    "id": "14132",
+                    "name": "Boron",
+                    "slug": "Boron"
+                },
+                {
+                    "id": "7890",
+                    "name": "Trace Elements",
+                    "slug": "Trace-Elements"
+                },
+                {
+                    "id": "1189",
+                    "name": "Ions",
+                    "slug": "Ions"
+                },
+                {
+                    "id": "2188",
+                    "name": "Iron",
+                    "slug": "Iron"
+                },
+                {
+                    "id": "12667",
+                    "name": "Minerals",
+                    "slug": "Minerals"
+                },
+                {
+                    "id": "3128",
+                    "name": "Tellurium",
+                    "slug": "Tellurium"
+                },
+                {
+                    "id": "497",
+                    "name": "Calcium",
+                    "slug": "Calcium"
+                },
+                {
+                    "id": "535112",
+                    "name": "standards characteristics",
+                    "slug": "standards-characteristics"
+                },
+                {
+                    "id": "1186",
+                    "name": "Iontophoresis",
+                    "slug": "Iontophoresis"
+                },
+                {
+                    "id": "327",
+                    "name": "Drinking Water",
+                    "slug": "Drinking-Water"
+                },
+                {
+                    "id": "46698",
+                    "name": "Bile Salts",
+                    "slug": "Bile-Salts"
+                },
+                {
+                    "id": "247",
+                    "name": "oxidation",
+                    "slug": "oxidation"
+                },
+                {
+                    "id": "43469",
+                    "name": "clay",
+                    "slug": "clay"
+                },
+                {
+                    "id": "401742",
+                    "name": "selenium sulfide",
+                    "slug": "selenium-sulfide"
+                }
+            ],
+            "entityRelations": [
+                {
+                    "srcEntityId": "23390",
+                    "destEntityId": "14132",
+                    "srcEntityName": "Arsenic",
+                    "destEntityName": "Boron",
+                    "relationshipType": {
+                        "id": "is_sibling_of"
+                    },
+                    "relationshipSubtype": "no_subtype",
+                    "mentionContexts": [
+                        "Sedimentary rocks of marine origin excavated from tunnel construction projects usually contain background levels of hazardous trace elements , but when exposed to the environment , they generate leachates with concentrations of <e1>arsenic</e1> ( As ) , selenium ( Se ) and <e2>boron</e2> ( B ) exceeding the WHO guideline for drinking water .",
+                        "Short and long term release mechanisms of <e1>arsenic</e1> , selenium and <e2>boron</e2> from a tunnel - excavated sedimentary rock under in situ conditions ."
+                    ],
+                    "mentionTexts": [
+                        [
+                            "arsenic",
+                            "boron"
+                        ],
+                        [
+                            "arsenic",
+                            "boron"
+                        ]
+                    ],
+                    "srcEntitySlug": "Arsenic",
+                    "destEntitySlug": "Boron"
+                },
+                {
+                    "srcEntityId": "14132",
+                    "destEntityId": "23390",
+                    "srcEntityName": "Boron",
+                    "destEntityName": "Arsenic",
+                    "relationshipType": {
+                        "id": "is_sibling_of"
+                    },
+                    "relationshipSubtype": "no_subtype",
+                    "mentionContexts": [
+                        "Short and long term release mechanisms of <e2>arsenic</e2> , selenium and <e1>boron</e1> from a tunnel - excavated sedimentary rock under in situ conditions .",
+                        "Sedimentary rocks of marine origin excavated from tunnel construction projects usually contain background levels of hazardous trace elements , but when exposed to the environment , they generate leachates with concentrations of <e2>arsenic</e2> ( As ) , selenium ( Se ) and <e1>boron</e1> ( B ) exceeding the WHO guideline for drinking water ."
+                    ],
+                    "mentionTexts": [
+                        [
+                            "boron",
+                            "arsenic"
+                        ],
+                        [
+                            "boron",
+                            "arsenic"
+                        ]
+                    ],
+                    "srcEntitySlug": "Boron",
+                    "destEntitySlug": "Arsenic"
+                },
+                {
+                    "srcEntityId": "23390",
+                    "destEntityId": "327",
+                    "srcEntityName": "Arsenic",
+                    "destEntityName": "Drinking Water",
+                    "relationshipType": {
+                        "id": "is_sibling_of"
+                    },
+                    "relationshipSubtype": "no_subtype",
+                    "mentionContexts": [
+                        "Sedimentary rocks of marine origin excavated from tunnel construction projects usually contain background levels of hazardous trace elements , but when exposed to the environment , they generate leachates with concentrations of <e1>arsenic</e1> ( As ) , selenium ( Se ) and boron ( B ) exceeding the WHO guideline for <e2>drinking water</e2> ."
+                    ],
+                    "mentionTexts": [
+                        [
+                            "arsenic",
+                            "drinking water"
+                        ]
+                    ],
+                    "srcEntitySlug": "Arsenic",
+                    "destEntitySlug": "Drinking-Water"
+                },
+                {
+                    "srcEntityId": "327",
+                    "destEntityId": "23390",
+                    "srcEntityName": "Drinking Water",
+                    "destEntityName": "Arsenic",
+                    "relationshipType": {
+                        "id": "is_sibling_of"
+                    },
+                    "relationshipSubtype": "no_subtype",
+                    "mentionContexts": [
+                        "Sedimentary rocks of marine origin excavated from tunnel construction projects usually contain background levels of hazardous trace elements , but when exposed to the environment , they generate leachates with concentrations of <e2>arsenic</e2> ( As ) , selenium ( Se ) and boron ( B ) exceeding the WHO guideline for <e1>drinking water</e1> ."
+                    ],
+                    "mentionTexts": [
+                        [
+                            "drinking water",
+                            "arsenic"
+                        ]
+                    ],
+                    "srcEntitySlug": "Drinking-Water",
+                    "destEntitySlug": "Arsenic"
+                },
+                {
+                    "srcEntityId": "14132",
+                    "destEntityId": "7890",
+                    "srcEntityName": "Boron",
+                    "destEntityName": "Trace Elements",
+                    "relationshipType": {
+                        "id": "is_sibling_of"
+                    },
+                    "relationshipSubtype": "no_subtype",
+                    "mentionContexts": [
+                        "Sedimentary rocks of marine origin excavated from tunnel construction projects usually contain background levels of hazardous <e2>trace elements</e2> , but when exposed to the environment , they generate leachates with concentrations of arsenic ( As ) , selenium ( Se ) and <e1>boron</e1> ( B ) exceeding the WHO guideline for drinking water ."
+                    ],
+                    "mentionTexts": [
+                        [
+                            "boron",
+                            "trace elements"
+                        ]
+                    ],
+                    "srcEntitySlug": "Boron",
+                    "destEntitySlug": "Trace-Elements"
+                },
+                {
+                    "srcEntityId": "7890",
+                    "destEntityId": "14132",
+                    "srcEntityName": "Trace Elements",
+                    "destEntityName": "Boron",
+                    "relationshipType": {
+                        "id": "is_sibling_of"
+                    },
+                    "relationshipSubtype": "no_subtype",
+                    "mentionContexts": [
+                        "Sedimentary rocks of marine origin excavated from tunnel construction projects usually contain background levels of hazardous <e1>trace elements</e1> , but when exposed to the environment , they generate leachates with concentrations of arsenic ( As ) , selenium ( Se ) and <e2>boron</e2> ( B ) exceeding the WHO guideline for drinking water ."
+                    ],
+                    "mentionTexts": [
+                        [
+                            "trace elements",
+                            "boron"
+                        ]
+                    ],
+                    "srcEntitySlug": "Trace-Elements",
+                    "destEntitySlug": "Boron"
+                },
+                {
+                    "srcEntityId": "1189",
+                    "destEntityId": "12667",
+                    "srcEntityName": "Ions",
+                    "destEntityName": "Minerals",
+                    "relationshipType": {
+                        "id": "is_sibling_of"
+                    },
+                    "relationshipSubtype": "no_subtype",
+                    "mentionContexts": [
+                        "After their rapid release , however , these trace elements behaved differently as a result of their contrasting adsorption affinities onto <e2>minerals</e2> like clays and Fe - oxyhydroxides , which were further influenced by the pH , presence of coexisting <e1>ions</e1> and speciation of the trace elements ."
+                    ],
+                    "mentionTexts": [
+                        [
+                            "ions",
+                            "minerals"
+                        ]
+                    ],
+                    "srcEntitySlug": "Ions",
+                    "destEntitySlug": "Minerals"
+                },
+                {
+                    "srcEntityId": "12667",
+                    "destEntityId": "1189",
+                    "srcEntityName": "Minerals",
+                    "destEntityName": "Ions",
+                    "relationshipType": {
+                        "id": "is_sibling_of"
+                    },
+                    "relationshipSubtype": "no_subtype",
+                    "mentionContexts": [
+                        "After their rapid release , however , these trace elements behaved differently as a result of their contrasting adsorption affinities onto <e1>minerals</e1> like clays and Fe - oxyhydroxides , which were further influenced by the pH , presence of coexisting <e2>ions</e2> and speciation of the trace elements ."
+                    ],
+                    "mentionTexts": [
+                        [
+                            "minerals",
+                            "ions"
+                        ]
+                    ],
+                    "srcEntitySlug": "Minerals",
+                    "destEntitySlug": "Ions"
+                },
+                {
+                    "srcEntityId": "12667",
+                    "destEntityId": "2188",
+                    "srcEntityName": "Minerals",
+                    "destEntityName": "Iron",
+                    "relationshipType": {
+                        "id": "is_related_to"
+                    },
+                    "relationshipSubtype": "related_to",
+                    "mentionContexts": [
+                        "After their rapid release , however , these trace elements behaved differently as a result of their contrasting adsorption affinities onto <e1>minerals</e1> like clays and <e2>Fe - oxyhydroxides</e2> , which were further influenced by the pH , presence of coexisting ions and speciation of the trace elements ."
+                    ],
+                    "mentionTexts": [
+                        [
+                            "minerals",
+                            "Fe - oxyhydroxides"
+                        ]
+                    ],
+                    "srcEntitySlug": "Minerals",
+                    "destEntitySlug": "Iron"
+                },
+                {
+                    "srcEntityId": "12667",
+                    "destEntityId": "2188",
+                    "srcEntityName": "Minerals",
+                    "destEntityName": "Iron",
+                    "relationshipType": {
+                        "id": "is_sibling_of"
+                    },
+                    "relationshipSubtype": "no_subtype",
+                    "mentionContexts": [
+                        "After their rapid release , however , these trace elements behaved differently as a result of their contrasting adsorption affinities onto <e1>minerals</e1> like clays and <e2>Fe - oxyhydroxides</e2> , which were further influenced by the pH , presence of coexisting ions and speciation of the trace elements ."
+                    ],
+                    "mentionTexts": [
+                        [
+                            "minerals",
+                            "Fe - oxyhydroxides"
+                        ]
+                    ],
+                    "srcEntitySlug": "Minerals",
+                    "destEntitySlug": "Iron"
+                },
+                {
+                    "srcEntityId": "2188",
+                    "destEntityId": "12667",
+                    "srcEntityName": "Iron",
+                    "destEntityName": "Minerals",
+                    "relationshipType": {
+                        "id": "is_sibling_of"
+                    },
+                    "relationshipSubtype": "no_subtype",
+                    "mentionContexts": [
+                        "After their rapid release , however , these trace elements behaved differently as a result of their contrasting adsorption affinities onto <e2>minerals</e2> like clays and <e1>Fe - oxyhydroxides</e1> , which were further influenced by the pH , presence of coexisting ions and speciation of the trace elements ."
+                    ],
+                    "mentionTexts": [
+                        [
+                            "Fe - oxyhydroxides",
+                            "minerals"
+                        ]
+                    ],
+                    "srcEntitySlug": "Iron",
+                    "destEntitySlug": "Minerals"
+                },
+                {
+                    "srcEntityId": "7890",
+                    "destEntityId": "14132",
+                    "srcEntityName": "Trace Elements",
+                    "destEntityName": "Boron",
+                    "relationshipType": {
+                        "id": "is_broader_than"
+                    },
+                    "relationshipSubtype": "inverse_isa",
+                    "mentionContexts": [
+                        "Sedimentary rocks of marine origin excavated from tunnel construction projects usually contain background levels of hazardous <e1>trace elements</e1> , but when exposed to the environment , they generate leachates with concentrations of arsenic ( As ) , selenium ( Se ) and <e2>boron</e2> ( B ) exceeding the WHO guideline for drinking water ."
+                    ],
+                    "mentionTexts": [
+                        [
+                            "trace elements",
+                            "boron"
+                        ]
+                    ],
+                    "srcEntitySlug": "Trace-Elements",
+                    "destEntitySlug": "Boron"
+                },
+                {
+                    "srcEntityId": "7890",
+                    "destEntityId": "2188",
+                    "srcEntityName": "Trace Elements",
+                    "destEntityName": "Iron",
+                    "relationshipType": {
+                        "id": "is_broader_than"
+                    },
+                    "relationshipSubtype": "no_subtype",
+                    "mentionContexts": [
+                        "After their rapid release , however , these trace elements behaved differently as a result of their contrasting adsorption affinities onto minerals like clays and <e2>Fe - oxyhydroxides</e2> , which were further influenced by the pH , presence of coexisting ions and speciation of the <e1>trace elements</e1> .",
+                        "After their rapid release , however , these <e1>trace elements</e1> behaved differently as a result of their contrasting adsorption affinities onto minerals like clays and <e2>Fe - oxyhydroxides</e2> , which were further influenced by the pH , presence of coexisting ions and speciation of the trace elements ."
+                    ],
+                    "mentionTexts": [
+                        [
+                            "trace elements",
+                            "Fe - oxyhydroxides"
+                        ],
+                        [
+                            "trace elements",
+                            "Fe - oxyhydroxides"
+                        ]
+                    ],
+                    "srcEntitySlug": "Trace-Elements",
+                    "destEntitySlug": "Iron"
+                },
+                {
+                    "srcEntityId": "7890",
+                    "destEntityId": "2188",
+                    "srcEntityName": "Trace Elements",
+                    "destEntityName": "Iron",
+                    "relationshipType": {
+                        "id": "is_broader_than"
+                    },
+                    "relationshipSubtype": "inverse_isa",
+                    "mentionContexts": [
+                        "After their rapid release , however , these trace elements behaved differently as a result of their contrasting adsorption affinities onto minerals like clays and <e2>Fe - oxyhydroxides</e2> , which were further influenced by the pH , presence of coexisting ions and speciation of the <e1>trace elements</e1> .",
+                        "After their rapid release , however , these <e1>trace elements</e1> behaved differently as a result of their contrasting adsorption affinities onto minerals like clays and <e2>Fe - oxyhydroxides</e2> , which were further influenced by the pH , presence of coexisting ions and speciation of the trace elements ."
+                    ],
+                    "mentionTexts": [
+                        [
+                            "trace elements",
+                            "Fe - oxyhydroxides"
+                        ],
+                        [
+                            "trace elements",
+                            "Fe - oxyhydroxides"
+                        ]
+                    ],
+                    "srcEntitySlug": "Trace-Elements",
+                    "destEntitySlug": "Iron"
+                },
+                {
+                    "srcEntityId": "2188",
+                    "destEntityId": "12667",
+                    "srcEntityName": "Iron",
+                    "destEntityName": "Minerals",
+                    "relationshipType": {
+                        "id": "is_related_to"
+                    },
+                    "relationshipSubtype": "related_to",
+                    "mentionContexts": [
+                        "After their rapid release , however , these trace elements behaved differently as a result of their contrasting adsorption affinities onto <e2>minerals</e2> like clays and <e1>Fe - oxyhydroxides</e1> , which were further influenced by the pH , presence of coexisting ions and speciation of the trace elements ."
+                    ],
+                    "mentionTexts": [
+                        [
+                            "Fe - oxyhydroxides",
+                            "minerals"
+                        ]
+                    ],
+                    "srcEntitySlug": "Iron",
+                    "destEntitySlug": "Minerals"
+                }
+            ],
+            "blogs": [],
+            "videos": [],
+            "githubReferences": [],
+            "faqs": [],
+            "scorecardStats": [
+                {
+                    "typeKey": "cited_by",
+                    "citationCount": 40,
+                    "keyCitationCount": 1,
+                    "score": 10.0
+                }
+            ],
+            "externalContentStats": [],
+            "fieldsOfStudy": [
+                "Geology",
+                "Medicine"
+            ],
+            "pubDate": "2015-04-01",
+            "badges": []
+        },
+        {
+            "id": "679910bd756c0c62ed67f19bcaff91492a82bced",
+            "corpusId": 128410344,
+            "title": {
+                "text": "Shear strength of discontinuities in sedimentary rock masses based on direct shear tests",
+                "fragments": [
+                    {
+                        "start": 37,
+                        "end": 48
+                    },
+                    {
+                        "start": 49,
+                        "end": 53
+                    }
+                ]
+            },
+            "slug": "Shear-strength-of-discontinuities-in-sedimentary-on-Sanei-Faramarzi",
+            "paperAbstract": {
+                "text": "Abstract Accurate estimation of the shear strength of rock discontinuities is of great importance in many rock engineering practices, especially for the stability assessment of dam foundations and rock slopes. This study was conducted through both in-situ and laboratory direct shear tests on rock discontinuities, under the constant normal load (CNL) boundary condition, focusing on the influence of the length of discontinuities on the shear strength. The results of more than 109 direct shear tests carried out on rock discontinuities at the Bakhtiary dam site were analyzed to consider the size effect on rock discontinuities strength. The surface roughness of discontinuities was described by fractal dimension using a modified divider method. Moreover, numerical simulations of direct shear tests were carried out on discontinuities with different lengths in order to establish an empirical relationship that can link the shear strength of discontinuities of laboratory scale to in-situ scale. From the experimental and numerical results, it was confirmed that the peak shear strength of the discontinuity decreases as a function of the discontinuity length.",
+                "fragments": [
+                    {
+                        "start": 54,
+                        "end": 58
+                    },
+                    {
+                        "start": 106,
+                        "end": 110
+                    },
+                    {
+                        "start": 197,
+                        "end": 201
+                    },
+                    {
+                        "start": 293,
+                        "end": 297
+                    },
+                    {
+                        "start": 517,
+                        "end": 521
+                    },
+                    {
+                        "start": 609,
+                        "end": 613
+                    }
+                ]
+            },
+            "paperAbstractTruncated": "Abstract Accurate estimation of the shear strength of rock discontinuities is of great importance in many rock engineeri...",
+            "authors": [
+                [
+                    {
+                        "name": "Manouchehr Sanei",
+                        "ids": [
+                            "122374906"
+                        ],
+                        "slug": "Manouchehr-Sanei",
+                        "bitmap$0": false
+                    },
+                    {
+                        "text": "Manouchehr Sanei",
+                        "fragments": []
+                    }
+                ],
+                [
+                    {
+                        "name": "L. Faramarzi",
+                        "ids": [
+                            "97536956"
+                        ],
+                        "slug": "L.-Faramarzi",
+                        "bitmap$0": false
+                    },
+                    {
+                        "text": "L. Faramarzi",
+                        "fragments": []
+                    }
+                ],
+                [
+                    {
+                        "name": "A. Fahimifar",
+                        "ids": [
+                            "2515867"
+                        ],
+                        "slug": "A.-Fahimifar",
+                        "bitmap$0": false
+                    },
+                    {
+                        "text": "A. Fahimifar",
+                        "fragments": []
+                    }
+                ],
+                [
+                    {
+                        "name": "S. Goli",
+                        "ids": [
+                            "26387246"
+                        ],
+                        "slug": "S.-Goli",
+                        "bitmap$0": false
+                    },
+                    {
+                        "text": "S. Goli",
+                        "fragments": []
+                    }
+                ],
+                [
+                    {
+                        "name": "A. Mehinrad",
+                        "ids": [
+                            "100543357"
+                        ],
+                        "slug": "A.-Mehinrad",
+                        "bitmap$0": false
+                    },
+                    {
+                        "text": "A. Mehinrad",
+                        "fragments": []
+                    }
+                ],
+                [
+                    {
+                        "name": "Asghar Rahmati",
+                        "ids": [
+                            "143894745"
+                        ],
+                        "slug": "Asghar-Rahmati",
+                        "bitmap$0": false
+                    },
+                    {
+                        "text": "Asghar Rahmati",
+                        "fragments": []
+                    }
+                ]
+            ],
+            "structuredAuthors": [
+                {
+                    "firstName": "Manouchehr",
+                    "middleNames": [],
+                    "lastName": "Sanei"
+                },
+                {
+                    "firstName": "L.",
+                    "middleNames": [],
+                    "lastName": "Faramarzi"
+                },
+                {
+                    "firstName": "A.",
+                    "middleNames": [],
+                    "lastName": "Fahimifar"
+                },
+                {
+                    "firstName": "S.",
+                    "middleNames": [],
+                    "lastName": "Goli"
+                },
+                {
+                    "firstName": "A.",
+                    "middleNames": [],
+                    "lastName": "Mehinrad"
+                },
+                {
+                    "firstName": "Asghar",
+                    "middleNames": [],
+                    "lastName": "Rahmati"
+                }
+            ],
+            "year": {
+                "text": "2015",
+                "fragments": []
+            },
+            "venue": {
+                "text": "",
+                "fragments": []
+            },
+            "citationContexts": [],
+            "citationStats": {
+                "citedByBuckets": [
+                    {
+                        "startKey": 2016,
+                        "endKey": 2016,
+                        "count": 6
+                    },
+                    {
+                        "startKey": 2017,
+                        "endKey": 2017,
+                        "count": 4
+                    },
+                    {
+                        "startKey": 2018,
+                        "endKey": 2018,
+                        "count": 4
+                    },
+                    {
+                        "startKey": 2019,
+                        "endKey": 2019,
+                        "count": 8
+                    },
+                    {
+                        "startKey": 2020,
+                        "endKey": 2020,
+                        "count": 7
+                    },
+                    {
+                        "startKey": 2021,
+                        "endKey": 2021,
+                        "count": 2
+                    }
+                ],
+                "keyCitedByBuckets": [],
+                "numCitations": 31,
+                "estNumCitations": 5.012389436510907,
+                "numReferences": 45,
+                "numKeyCitations": 2,
+                "numKeyReferences": 0,
+                "numViewableReferences": 45,
+                "keyCitationRate": 0.06451612903225806,
+                "firstCitationVelocityYear": 2018,
+                "lastCitationVelocityYear": 2020
+            },
+            "earliestAcquisitionsDate": 1556111505.698000000,
+            "sources": [
+                "Unpaywall",
+                "MAG"
+            ],
+            "journal": {
+                "name": "International Journal of Rock Mechanics and Mining Sciences",
+                "volume": "75",
+                "pages": "119-131"
+            },
+            "socialLinks": [],
+            "presentationIds": [],
+            "presentationUrls": [],
+            "doiInfo": {
+                "doi": "10.1016/J.IJRMMS.2014.11.009",
+                "doiUrl": "https://doi.org/10.1016/J.IJRMMS.2014.11.009"
+            },
+            "links": [
+                {
+                    "url": "https://doi.org/10.1016/J.IJRMMS.2014.11.009",
+                    "linkType": "doi"
+                }
+            ],
+            "primaryPaperLink": {
+                "url": "https://doi.org/10.1016/J.IJRMMS.2014.11.009",
+                "linkType": "doi"
+            },
+            "alternatePaperLinks": [],
+            "entities": [],
+            "entityRelations": [],
+            "blogs": [],
+            "videos": [],
+            "githubReferences": [],
+            "faqs": [],
+            "scorecardStats": [
+                {
+                    "typeKey": "cited_by",
+                    "citationCount": 31,
+                    "keyCitationCount": 2,
+                    "score": 10.0
+                }
+            ],
+            "externalContentStats": [],
+            "fieldsOfStudy": [
+                "Geology"
+            ],
+            "pubDate": "2015-04-01",
+            "badges": []
+        },
+        {
+            "id": "f7c657146183cdc7d89dcaa330d1805b8a0cd07e",
+            "corpusId": 49185523,
+            "title": {
+                "text": "Carbonate Sedimentary Rock Identification",
+                "fragments": [
+                    {
+                        "start": 10,
+                        "end": 21
+                    },
+                    {
+                        "start": 22,
+                        "end": 26
+                    }
+                ]
+            },
+            "slug": "Carbonate-Sedimentary-Rock-Identification",
+            "paperAbstract": {
+                "text": " Ooids are spherical sand sized particles that have a concentric or radial internal structure. The central part of each particle consists of a grain of quartz or other carbonate particle surrounded by thin concentric layers of chemically precipitated calcite. The layers or coatings are formed in agitated waters as the grain rolls around. (< 2 mm), Pisoids (2 – 10 mm) – sometimes irregular in shape",
+                "fragments": []
+            },
+            "paperAbstractTruncated": " Ooids are spherical sand sized particles that have a concentric or radial internal structure. The central part of each...",
+            "authors": [],
+            "structuredAuthors": [],
+            "year": {
+                "text": "2016",
+                "fragments": []
+            },
+            "venue": {
+                "text": "",
+                "fragments": []
+            },
+            "citationContexts": [],
+            "citationStats": {
+                "citedByBuckets": [],
+                "keyCitedByBuckets": [],
+                "numCitations": 0,
+                "estNumCitations": 0.0,
+                "numReferences": 0,
+                "numKeyCitations": 0,
+                "numKeyReferences": 0,
+                "numViewableReferences": 0,
+                "keyCitationRate": 0.0,
+                "firstCitationVelocityYear": 2018,
+                "lastCitationVelocityYear": 2020
+            },
+            "earliestAcquisitionsDate": 1529016700.049023000,
+            "sources": [
+                "ScienceParse",
+                "Anansi",
+                "SPv2",
+                "ScienceParseMerged"
+            ],
+            "socialLinks": [],
+            "presentationIds": [],
+            "presentationUrls": [],
+            "links": [],
+            "alternatePaperLinks": [
+                {
+                    "url": "http://www.ldeo.columbia.edu/~danielr/_include/resources_pdf/misc/CarbonateIdentification.pdf",
+                    "linkType": "anansi"
+                }
+            ],
+            "entities": [
+                {
+                    "id": "2584",
+                    "name": "Carbonates",
+                    "slug": "Carbonates"
+                },
+                {
+                    "id": "105744",
+                    "name": "carbonate ion",
+                    "slug": "carbonate-ion"
+                },
+                {
+                    "id": "25452",
+                    "name": "Quartz",
+                    "slug": "Quartz"
+                },
+                {
+                    "id": "3245",
+                    "name": "anatomical layer",
+                    "slug": "anatomical-layer"
+                },
+                {
+                    "id": "3151950",
+                    "name": "Apache Calcite",
+                    "slug": "Apache-Calcite"
+                },
+                {
+                    "id": "14763",
+                    "name": "Particle",
+                    "slug": "Particle"
+                },
+                {
+                    "id": "16338",
+                    "name": "Radial (radio)",
+                    "slug": "Radial-(radio)"
+                },
+                {
+                    "id": "62",
+                    "name": "Water",
+                    "slug": "Water"
+                },
+                {
+                    "id": "10222",
+                    "name": "Agitation",
+                    "slug": "Agitation"
+                }
+            ],
+            "entityRelations": [],
+            "blogs": [],
+            "videos": [],
+            "githubReferences": [],
+            "faqs": [],
+            "scorecardStats": [],
+            "externalContentStats": [],
+            "fieldsOfStudy": [],
+            "badges": [
+                {
+                    "id": "OPEN_ACCESS"
+                }
+            ]
+        },
+        {
+            "id": "4d29155095b207ad7e1836d270ca36e71f8d4a1e",
+            "corpusId": 16809331,
+            "title": {
+                "text": "Rupture cascades in a discrete element model of a porous sedimentary rock.",
+                "fragments": [
+                    {
+                        "start": 57,
+                        "end": 68
+                    },
+                    {
+                        "start": 69,
+                        "end": 73
+                    }
+                ]
+            },
+            "slug": "Rupture-cascades-in-a-discrete-element-model-of-a-Kun-Varga",
+            "paperAbstract": {
+                "text": "We investigate the scaling properties of the sources of crackling noise in a fully dynamic numerical model of sedimentary rocks subject to uniaxial compression. The model is initiated by filling a cylindrical container with randomly sized spherical particles that are then connected by breakable beams. Loading at a constant strain rate the cohesive elements fail, and the resulting stress transfer produces sudden bursts of correlated failures, directly analogous to the sources of acoustic emissions in real experiments. The source size, energy, and duration can all be quantified for an individual event, and the population can be analyzed for its scaling properties, including the distribution of waiting times between consecutive events. Despite the nonstationary loading, the results are all characterized by power-law distributions over a broad range of scales in agreement with experiments. As failure is approached, temporal correlation of events emerges accompanied by spatial clustering.",
+                "fragments": [
+                    {
+                        "start": 110,
+                        "end": 121
+                    }
+                ]
+            },
+            "paperAbstractTruncated": "We investigate the scaling properties of the sources of crackling noise in a fully dynamic numerical model of sedimentar...",
+            "authors": [
+                [
+                    {
+                        "name": "F. Kun",
+                        "ids": [
+                            "2700148"
+                        ],
+                        "slug": "F.-Kun",
+                        "bitmap$0": false
+                    },
+                    {
+                        "text": "F. Kun",
+                        "fragments": []
+                    }
+                ],
+                [
+                    {
+                        "name": "I. Varga",
+                        "ids": [
+                            "145778543"
+                        ],
+                        "slug": "I.-Varga",
+                        "bitmap$0": false
+                    },
+                    {
+                        "text": "I. Varga",
+                        "fragments": []
+                    }
+                ],
+                [
+                    {
+                        "name": "S. Lennartz-Sassinek",
+                        "ids": [
+                            "1402784822"
+                        ],
+                        "slug": "S.-Lennartz-Sassinek",
+                        "bitmap$0": false
+                    },
+                    {
+                        "text": "S. Lennartz-Sassinek",
+                        "fragments": []
+                    }
+                ],
+                [
+                    {
+                        "name": "I. Main",
+                        "ids": [
+                            "143850751"
+                        ],
+                        "slug": "I.-Main",
+                        "bitmap$0": false
+                    },
+                    {
+                        "text": "I. Main",
+                        "fragments": []
+                    }
+                ]
+            ],
+            "structuredAuthors": [
+                {
+                    "firstName": "F.",
+                    "middleNames": [],
+                    "lastName": "Kun"
+                },
+                {
+                    "firstName": "I.",
+                    "middleNames": [],
+                    "lastName": "Varga"
+                },
+                {
+                    "firstName": "S.",
+                    "middleNames": [],
+                    "lastName": "Lennartz-Sassinek"
+                },
+                {
+                    "firstName": "I.",
+                    "middleNames": [],
+                    "lastName": "Main"
+                }
+            ],
+            "year": {
+                "text": "2014",
+                "fragments": []
+            },
+            "venue": {
+                "text": "Physical review letters",
+                "fragments": []
+            },
+            "citationContexts": [],
+            "citationStats": {
+                "citedByBuckets": [
+                    {
+                        "startKey": 2014,
+                        "endKey": 2014,
+                        "count": 5
+                    },
+                    {
+                        "startKey": 2015,
+                        "endKey": 2015,
+                        "count": 5
+                    },
+                    {
+                        "startKey": 2016,
+                        "endKey": 2016,
+                        "count": 6
+                    },
+                    {
+                        "startKey": 2017,
+                        "endKey": 2017,
+                        "count": 6
+                    },
+                    {
+                        "startKey": 2018,
+                        "endKey": 2018,
+                        "count": 11
+                    },
+                    {
+                        "startKey": 2019,
+                        "endKey": 2019,
+                        "count": 9
+                    },
+                    {
+                        "startKey": 2020,
+                        "endKey": 2020,
+                        "count": 5
+                    },
+                    {
+                        "startKey": 2021,
+                        "endKey": 2021,
+                        "count": 1
+                    }
+                ],
+                "keyCitedByBuckets": [],
+                "numCitations": 48,
+                "estNumCitations": 23.279026332791226,
+                "numReferences": 54,
+                "numKeyCitations": 2,
+                "numKeyReferences": 2,
+                "numViewableReferences": 54,
+                "keyCitationRate": 0.041666666666666664,
+                "citationVelocity": 8.333333333333334,
+                "firstCitationVelocityYear": 2018,
+                "lastCitationVelocityYear": 2020
+            },
+            "earliestAcquisitionsDate": 1393408442.000000000,
+            "sources": [
+                "ScienceParseMerged",
+                "MergedPDFExtraction",
+                "ScienceParseMerged",
+                "ScienceParseMerged",
+                "Anansi",
+                "ArXiv",
+                "Anansi",
+                "Anansi",
+                "ScienceParseMerged",
+                "Medline",
+                "MAG",
+                "Unpaywall",
+                "ScienceParseMerged",
+                "Anansi",
+                "Grobid"
+            ],
+            "journal": {
+                "name": "Physical review letters",
+                "volume": "112 6",
+                "pages": "\n          065501\n        "
+            },
+            "socialLinks": [],
+            "presentationIds": [],
+            "presentationUrls": [],
+            "doiInfo": {
+                "doi": "10.1103/PhysRevLett.112.065501",
+                "doiUrl": "https://doi.org/10.1103/PhysRevLett.112.065501"
+            },
+            "links": [
+                {
+                    "url": "https://www.ncbi.nlm.nih.gov/pubmed/24580692",
+                    "linkType": "medline"
+                }
+            ],
+            "primaryPaperLink": {
+                "url": "https://www.ncbi.nlm.nih.gov/pubmed/24580692",
+                "linkType": "medline"
+            },
+            "alternatePaperLinks": [
+                {
+                    "url": "https://dea.lib.unideb.hu/dea/bitstream/2437/181383/2/file_up_PRL112_065501_2014.pdf",
+                    "linkType": "openaccess"
+                },
+                {
+                    "url": "https://arxiv.org/pdf/1402.6475.pdf",
+                    "linkType": "arxiv"
+                },
+                {
+                    "url": "https://dea.lib.unideb.hu/dea/bitstream/handle/2437/181383/file_up_PRL112_065501_2014.pdf;jsessionid=83D229DA969C8BCFA798A9FBA4E465FD?sequence=2",
+                    "linkType": "anansi"
+                },
+                {
+                    "url": "https://doi.org/10.1103/PhysRevLett.112.065501",
+                    "linkType": "doi"
+                },
+                {
+                    "url": "https://www.research.ed.ac.uk/portal/files/19018947/Kun_2014_PRL_Bursts.pdf",
+                    "linkType": "anansi"
+                }
+            ],
+            "entities": [
+                {
+                    "id": "132073",
+                    "name": "Emission - Male genitalia finding",
+                    "slug": "Emission-Male-genitalia-finding"
+                }
+            ],
+            "entityRelations": [],
+            "blogs": [],
+            "videos": [],
+            "githubReferences": [],
+            "faqs": [],
+            "scorecardStats": [
+                {
+                    "typeKey": "cited_by",
+                    "citationCount": 48,
+                    "keyCitationCount": 2,
+                    "score": 10.0
+                }
+            ],
+            "externalContentStats": [],
+            "fieldsOfStudy": [
+                "Geology",
+                "Physics",
+                "Medicine"
+            ],
+            "openAccessInfo": {
+                "status": "GREEN",
+                "location": {
+                    "url": "https://dea.lib.unideb.hu/dea/bitstream/2437/181383/2/file_up_PRL112_065501_2014.pdf",
+                    "isPdf": true
+                }
+            },
+            "openAccessLocation": {
+                "url": "https://dea.lib.unideb.hu/dea/bitstream/2437/181383/2/file_up_PRL112_065501_2014.pdf",
+                "isPdf": true
+            },
+            "pubDate": "2014-02-14",
+            "pubUpdateDate": "2014-02-26",
+            "badges": [
+                {
+                    "id": "OPEN_ACCESS"
+                }
+            ]
+        },
+        {
+            "id": "f41dae714a4dca5ad4dbcb70594b260256420990",
+            "corpusId": 54962392,
+            "title": {
+                "text": "Natural Radioactivity Measurements and Radiation Dose Estimation in Some Sedimentary Rock Samples in Turkey",
+                "fragments": [
+                    {
+                        "start": 73,
+                        "end": 84
+                    },
+                    {
+                        "start": 85,
+                        "end": 89
+                    }
+                ]
+            },
+            "slug": "Natural-Radioactivity-Measurements-and-Radiation-in-Akkurt-Günoğlu",
+            "paperAbstract": {
+                "text": "The natural radioactivity existed since creation of the universe due to the long life time of some radionuclides. This natural radioactivity is caused by γ-radiation originating from the uranium and thorium series and 40K. In this study, the gamma radiation has been measured to determine natural radioactivity of 238U, 232Th, and 40K in collected sedimentary rock samples in different places of Turkey. The measurements have been performed using γ-ray spectrometer containing NaI(Tl) detector and multichannel analyser (MCA). Absorbed dose rate (D), annual effective dose (AED), radium equivalent activities (), external hazard index (), and internal hazard index () associated with the natural radionuclide were calculated to assess the radiation hazard of the natural radioactivity in the sedimentary rock samples. The average values of absorbed dose rate in air (D), annual effective dose (AED), radium equivalent activity (), external hazard index (), and internal hazard index () were calculated and these were 45.425 nGy/h, 0.056 mSv/y, 99.014 Bq/kg, 0.267, and 0.361, respectively.",
+                "fragments": [
+                    {
+                        "start": 348,
+                        "end": 359
+                    },
+                    {
+                        "start": 360,
+                        "end": 364
+                    },
+                    {
+                        "start": 792,
+                        "end": 803
+                    },
+                    {
+                        "start": 804,
+                        "end": 808
+                    }
+                ]
+            },
+            "paperAbstractTruncated": "The natural radioactivity existed since creation of the universe due to the long life time of some radionuclides. This n...",
+            "authors": [
+                [
+                    {
+                        "name": "I. Akkurt",
+                        "ids": [
+                            "48859500"
+                        ],
+                        "slug": "I.-Akkurt",
+                        "bitmap$0": false
+                    },
+                    {
+                        "text": "I. Akkurt",
+                        "fragments": []
+                    }
+                ],
+                [
+                    {
+                        "name": "K. Günoğlu",
+                        "ids": [
+                            "92836582"
+                        ],
+                        "slug": "K.-Günoğlu",
+                        "bitmap$0": false
+                    },
+                    {
+                        "text": "K. Günoğlu",
+                        "fragments": []
+                    }
+                ]
+            ],
+            "structuredAuthors": [
+                {
+                    "firstName": "I.",
+                    "middleNames": [],
+                    "lastName": "Akkurt"
+                },
+                {
+                    "firstName": "K.",
+                    "middleNames": [],
+                    "lastName": "Günoğlu"
+                }
+            ],
+            "year": {
+                "text": "2014",
+                "fragments": []
+            },
+            "venue": {
+                "text": "",
+                "fragments": []
+            },
+            "citationContexts": [],
+            "citationStats": {
+                "citedByBuckets": [
+                    {
+                        "startKey": 2016,
+                        "endKey": 2016,
+                        "count": 1
+                    },
+                    {
+                        "startKey": 2017,
+                        "endKey": 2017,
+                        "count": 3
+                    },
+                    {
+                        "startKey": 2018,
+                        "endKey": 2018,
+                        "count": 5
+                    },
+                    {
+                        "startKey": 2019,
+                        "endKey": 2019,
+                        "count": 3
+                    },
+                    {
+                        "startKey": 2020,
+                        "endKey": 2020,
+                        "count": 3
+                    }
+                ],
+                "keyCitedByBuckets": [],
+                "numCitations": 15,
+                "estNumCitations": 3.000566251415629,
+                "numReferences": 16,
+                "numKeyCitations": 0,
+                "numKeyReferences": 0,
+                "numViewableReferences": 16,
+                "keyCitationRate": 0.0,
+                "firstCitationVelocityYear": 2018,
+                "lastCitationVelocityYear": 2020
+            },
+            "earliestAcquisitionsDate": 1544715594.736661000,
+            "sources": [
+                "MAG",
+                "ScienceParseMerged",
+                "Unpaywall",
+                "Anansi"
+            ],
+            "journal": {
+                "name": "Science and Technology of Nuclear Installations",
+                "volume": "2014",
+                "pages": "733-738"
+            },
+            "socialLinks": [],
+            "presentationIds": [],
+            "presentationUrls": [],
+            "doiInfo": {
+                "doi": "10.1155/2014/950978",
+                "doiUrl": "https://doi.org/10.1155/2014%2F950978"
+            },
+            "links": [
+                {
+                    "url": "https://pdfs.semanticscholar.org/f41d/ae714a4dca5ad4dbcb70594b260256420990.pdf",
+                    "linkType": "s2"
+                }
+            ],
+            "primaryPaperLink": {
+                "url": "https://pdfs.semanticscholar.org/f41d/ae714a4dca5ad4dbcb70594b260256420990.pdf",
+                "linkType": "s2"
+            },
+            "alternatePaperLinks": [],
+            "entities": [
+                {
+                    "id": "46682",
+                    "name": "Radium",
+                    "slug": "Radium"
+                },
+                {
+                    "id": "8797",
+                    "name": "Radioactivity",
+                    "slug": "Radioactivity"
+                },
+                {
+                    "id": "188676",
+                    "name": "Effective dose (radiation)",
+                    "slug": "Effective-dose-(radiation)"
+                },
+                {
+                    "id": "323",
+                    "name": "Uranium",
+                    "slug": "Uranium"
+                },
+                {
+                    "id": "18931",
+                    "name": "Thorium",
+                    "slug": "Thorium"
+                },
+                {
+                    "id": "24754",
+                    "name": "Radioisotopes",
+                    "slug": "Radioisotopes"
+                },
+                {
+                    "id": "38236",
+                    "name": "Analyzer, device",
+                    "slug": "Analyzer,-device"
+                },
+                {
+                    "id": "13927",
+                    "name": "Gamma Rays",
+                    "slug": "Gamma-Rays"
+                },
+                {
+                    "id": "23153",
+                    "name": "Gamma correction",
+                    "slug": "Gamma-correction"
+                },
+                {
+                    "id": "831",
+                    "name": "Detectors",
+                    "slug": "Detectors"
+                },
+                {
+                    "id": "555",
+                    "name": "20-Methylcholanthrene",
+                    "slug": "20-Methylcholanthrene"
+                }
+            ],
+            "entityRelations": [
+                {
+                    "srcEntityId": "8797",
+                    "destEntityId": "3885",
+                    "srcEntityName": "Radioactivity",
+                    "destEntityName": "Radiation",
+                    "relationshipType": {
+                        "id": "is_sibling_of"
+                    },
+                    "relationshipSubtype": "no_subtype",
+                    "mentionContexts": [
+                        "Absorbed dose rate ( D ) , annual effective dose ( AED ) , radium equivalent activities ( Raeq ) , external hazard index ( Hex ) , and internal hazard index ( Hin ) associated with the natural radionuclide were calculated to assess the <e2>radiation hazard</e2> of the natural <e1>radioactivity</e1> in the sedimentary rock samples ."
+                    ],
+                    "mentionTexts": [
+                        [
+                            "radioactivity",
+                            "radiation hazard"
+                        ]
+                    ],
+                    "srcEntitySlug": "Radioactivity",
+                    "destEntitySlug": "Radiation"
+                },
+                {
+                    "srcEntityId": "3885",
+                    "destEntityId": "8797",
+                    "srcEntityName": "Radiation",
+                    "destEntityName": "Radioactivity",
+                    "relationshipType": {
+                        "id": "is_sibling_of"
+                    },
+                    "relationshipSubtype": "no_subtype",
+                    "mentionContexts": [
+                        "Absorbed dose rate ( D ) , annual effective dose ( AED ) , radium equivalent activities ( Raeq ) , external hazard index ( Hex ) , and internal hazard index ( Hin ) associated with the natural radionuclide were calculated to assess the <e1>radiation hazard</e1> of the natural <e2>radioactivity</e2> in the sedimentary rock samples ."
+                    ],
+                    "mentionTexts": [
+                        [
+                            "radiation hazard",
+                            "radioactivity"
+                        ]
+                    ],
+                    "srcEntitySlug": "Radiation",
+                    "destEntitySlug": "Radioactivity"
+                },
+                {
+                    "srcEntityId": "18931",
+                    "destEntityId": "323",
+                    "srcEntityName": "Thorium",
+                    "destEntityName": "Uranium",
+                    "relationshipType": {
+                        "id": "is_sibling_of"
+                    },
+                    "relationshipSubtype": "no_subtype",
+                    "mentionContexts": [
+                        "This natural radioactivity is caused by γ-radiation originating from the <e2>uranium</e2> and <e1>thorium</e1> series and K."
+                    ],
+                    "mentionTexts": [
+                        [
+                            "thorium",
+                            "uranium"
+                        ]
+                    ],
+                    "srcEntitySlug": "Thorium",
+                    "destEntitySlug": "Uranium"
+                },
+                {
+                    "srcEntityId": "323",
+                    "destEntityId": "18931",
+                    "srcEntityName": "Uranium",
+                    "destEntityName": "Thorium",
+                    "relationshipType": {
+                        "id": "is_sibling_of"
+                    },
+                    "relationshipSubtype": "no_subtype",
+                    "mentionContexts": [
+                        "This natural radioactivity is caused by γ-radiation originating from the <e1>uranium</e1> and <e2>thorium</e2> series and K."
+                    ],
+                    "mentionTexts": [
+                        [
+                            "uranium",
+                            "thorium"
+                        ]
+                    ],
+                    "srcEntitySlug": "Uranium",
+                    "destEntitySlug": "Thorium"
+                }
+            ],
+            "blogs": [],
+            "videos": [],
+            "githubReferences": [],
+            "faqs": [],
+            "scorecardStats": [
+                {
+                    "typeKey": "cited_by",
+                    "citationCount": 15,
+                    "keyCitationCount": 0,
+                    "score": 10.0
+                }
+            ],
+            "externalContentStats": [],
+            "fieldsOfStudy": [
+                "Environmental Science"
+            ],
+            "openAccessInfo": {
+                "license": "CCBY",
+                "status": "GOLD",
+                "location": {
+                    "url": "http://downloads.hindawi.com/journals/stni/2014/950978.pdf",
+                    "isPdf": true
+                }
+            },
+            "openAccessLocation": {
+                "url": "http://downloads.hindawi.com/journals/stni/2014/950978.pdf",
+                "isPdf": true
+            },
+            "pubDate": "2014-04-02",
+            "badges": [
+                {
+                    "id": "OPEN_ACCESS"
+                }
+            ]
+        },
+        {
+            "id": "41c9048aebc67338030e42a787c9a1d1c7698f59",
+            "corpusId": 132415156,
+            "title": {
+                "text": "The characteristics of Precambrian sedimentary basin and the distribution of deep source rock: A case study of Tarim Basin in Neoproterozoic and source rocks in Early Cambrian, Western China",
+                "fragments": [
+                    {
+                        "start": 35,
+                        "end": 46
+                    },
+                    {
+                        "start": 89,
+                        "end": 93
+                    }
+                ]
+            },
+            "slug": "The-characteristics-of-Precambrian-sedimentary-and-Lin-Guan",
+            "paperAbstract": {
+                "text": "Abstract Based on outcrops of the whole basin, drilling and seismic data, this paper makes a systematic analysis of Neoproterozoic basin stratigraphic distribution and tectonic evolution characteristics in Tarim. Under the control of the aggregation and breakup of Rodinia supercontinent, the extensional sedimentary basin formed with North-South differences in the Neoproterozoic, separated by the middle ancient land. There is a sedimentary basin in the north, east-west banded, with two thickness centers, Aksu region in northwest and Manjiaer-Kuruketage region in northeast and maximum thickness about 2 500−3 500 m. There are two sedimentary basins in the south, north-east banded, with two thickness centers, Yecheng and Hetian with maximum thickness about 1 500−2 000 m. The evolution of the basin can be divided into two stages, rift in Nanhuan (Cryogenian) and depression in Sinian (Ediacaran), the latter stage deposits larger range but with thinner thickness of strata. Its main rock types contain volcanic rock, clastic rock, moraine rock and carbonate rock. The distribution of source rock during Early Cambrian period is mainly controlled by the development characteristics of the Neoproterozoic sedimentary basin.",
+                "fragments": [
+                    {
+                        "start": 305,
+                        "end": 316
+                    },
+                    {
+                        "start": 431,
+                        "end": 442
+                    },
+                    {
+                        "start": 635,
+                        "end": 646
+                    },
+                    {
+                        "start": 990,
+                        "end": 994
+                    },
+                    {
+                        "start": 1018,
+                        "end": 1022
+                    },
+                    {
+                        "start": 1032,
+                        "end": 1036
+                    },
+                    {
+                        "start": 1046,
+                        "end": 1050
+                    },
+                    {
+                        "start": 1065,
+                        "end": 1069
+                    },
+                    {
+                        "start": 1098,
+                        "end": 1102
+                    },
+                    {
+                        "start": 1210,
+                        "end": 1221
+                    }
+                ]
+            },
+            "paperAbstractTruncated": "Abstract Based on outcrops of the whole basin, drilling and seismic data, this paper makes a systematic analysis of Neop...",
+            "authors": [
+                [
+                    {
+                        "name": "W. Lin",
+                        "ids": [
+                            "144882914"
+                        ],
+                        "slug": "W.-Lin",
+                        "bitmap$0": false
+                    },
+                    {
+                        "text": "W. Lin",
+                        "fragments": []
+                    }
+                ],
+                [
+                    {
+                        "name": "S. Guan",
+                        "ids": [
+                            "108356028"
+                        ],
+                        "slug": "S.-Guan",
+                        "bitmap$0": false
+                    },
+                    {
+                        "text": "S. Guan",
+                        "fragments": []
+                    }
+                ],
+                [
+                    {
+                        "name": "Rong Ren",
+                        "ids": [
+                            "48667728"
+                        ],
+                        "slug": "Rong-Ren",
+                        "bitmap$0": false
+                    },
+                    {
+                        "text": "Rong Ren",
+                        "fragments": []
+                    }
+                ],
+                [
+                    {
+                        "name": "Xiaobo Wang",
+                        "ids": [
+                            "116039476"
+                        ],
+                        "slug": "Xiaobo-Wang",
+                        "bitmap$0": false
+                    },
+                    {
+                        "text": "Xiaobo Wang",
+                        "fragments": []
+                    }
+                ],
+                [
+                    {
+                        "name": "H. Yang",
+                        "ids": [
+                            "47912162"
+                        ],
+                        "slug": "H.-Yang",
+                        "bitmap$0": false
+                    },
+                    {
+                        "text": "H. Yang",
+                        "fragments": []
+                    }
+                ],
+                [
+                    {
+                        "name": "Jiuqiang Jin",
+                        "ids": [
+                            "22457306"
+                        ],
+                        "slug": "Jiuqiang-Jin",
+                        "bitmap$0": false
+                    },
+                    {
+                        "text": "Jiuqiang Jin",
+                        "fragments": []
+                    }
+                ],
+                [
+                    {
+                        "name": "G. Zhu",
+                        "ids": [
+                            "145234213"
+                        ],
+                        "slug": "G.-Zhu",
+                        "bitmap$0": false
+                    },
+                    {
+                        "text": "G. Zhu",
+                        "fragments": []
+                    }
+                ]
+            ],
+            "structuredAuthors": [
+                {
+                    "firstName": "W.",
+                    "middleNames": [],
+                    "lastName": "Lin"
+                },
+                {
+                    "firstName": "S.",
+                    "middleNames": [],
+                    "lastName": "Guan"
+                },
+                {
+                    "firstName": "Rong",
+                    "middleNames": [],
+                    "lastName": "Ren"
+                },
+                {
+                    "firstName": "Xiaobo",
+                    "middleNames": [],
+                    "lastName": "Wang"
+                },
+                {
+                    "firstName": "H.",
+                    "middleNames": [],
+                    "lastName": "Yang"
+                },
+                {
+                    "firstName": "Jiuqiang",
+                    "middleNames": [],
+                    "lastName": "Jin"
+                },
+                {
+                    "firstName": "G.",
+                    "middleNames": [],
+                    "lastName": "Zhu"
+                }
+            ],
+            "year": {
+                "text": "2016",
+                "fragments": []
+            },
+            "venue": {
+                "text": "",
+                "fragments": []
+            },
+            "citationContexts": [],
+            "citationStats": {
+                "citedByBuckets": [
+                    {
+                        "startKey": 2017,
+                        "endKey": 2017,
+                        "count": 3
+                    },
+                    {
+                        "startKey": 2018,
+                        "endKey": 2018,
+                        "count": 6
+                    },
+                    {
+                        "startKey": 2019,
+                        "endKey": 2019,
+                        "count": 10
+                    },
+                    {
+                        "startKey": 2020,
+                        "endKey": 2020,
+                        "count": 10
+                    },
+                    {
+                        "startKey": 2021,
+                        "endKey": 2021,
+                        "count": 2
+                    }
+                ],
+                "keyCitedByBuckets": [],
+                "numCitations": 31,
+                "estNumCitations": 3.000275900124155,
+                "numReferences": 20,
+                "numKeyCitations": 3,
+                "numKeyReferences": 0,
+                "numViewableReferences": 20,
+                "keyCitationRate": 0.0967741935483871,
+                "citationVelocity": 8.666666666666666,
+                "citationAcceleration": 0.0,
+                "firstCitationVelocityYear": 2018,
+                "lastCitationVelocityYear": 2020
+            },
+            "earliestAcquisitionsDate": 1556288700.975000000,
+            "sources": [
+                "Unpaywall",
+                "MAG"
+            ],
+            "journal": {
+                "name": "Petroleum Exploration and Development",
+                "volume": "43",
+                "pages": "988-999"
+            },
+            "socialLinks": [],
+            "presentationIds": [],
+            "presentationUrls": [],
+            "doiInfo": {
+                "doi": "10.1016/S1876-3804(16)30116-1",
+                "doiUrl": "https://doi.org/10.1016/S1876-3804%2816%2930116-1"
+            },
+            "links": [
+                {
+                    "url": "https://doi.org/10.1016/S1876-3804%2816%2930116-1",
+                    "linkType": "doi"
+                }
+            ],
+            "primaryPaperLink": {
+                "url": "https://doi.org/10.1016/S1876-3804%2816%2930116-1",
+                "linkType": "doi"
+            },
+            "alternatePaperLinks": [
+                {
+                    "url": "https://doi.org/10.1016/s1876-3804(16)30116-1",
+                    "linkType": "openaccess"
+                }
+            ],
+            "entities": [],
+            "entityRelations": [],
+            "blogs": [],
+            "videos": [],
+            "githubReferences": [],
+            "faqs": [],
+            "scorecardStats": [
+                {
+                    "typeKey": "cited_by",
+                    "citationCount": 31,
+                    "keyCitationCount": 3,
+                    "score": 10.0
+                }
+            ],
+            "externalContentStats": [],
+            "fieldsOfStudy": [
+                "Geology"
+            ],
+            "openAccessInfo": {
+                "license": "CCBYNCND",
+                "status": "GOLD",
+                "location": {
+                    "url": "https://doi.org/10.1016/s1876-3804(16)30116-1",
+                    "isPdf": false
+                }
+            },
+            "openAccessLocation": {
+                "url": "https://doi.org/10.1016/s1876-3804(16)30116-1",
+                "isPdf": false
+            },
+            "pubDate": "2016-12-01",
+            "badges": [
+                {
+                    "id": "UNPAYWALL"
+                }
+            ]
+        },
+        {
+            "id": "04f69b41d2d1ff54a6a64b4c5e729a16d2961d02",
+            "corpusId": 128758538,
+            "title": {
+                "text": "Sedimentary-rock-hosted epithermal systems of the Tertiary Eastern Rhodopes, Bulgaria: new constraints from the Stremtsi gold prospect",
+                "fragments": [
+                    {
+                        "start": 0,
+                        "end": 11
+                    },
+                    {
+                        "start": 12,
+                        "end": 16
+                    }
+                ]
+            },
+            "slug": "Sedimentary-rock-hosted-epithermal-systems-of-the-Moritz-Noverraz",
+            "paperAbstract": {
+                "text": "Abstract Precious metal epithermal, sedimentary-rock-hosted prospects constitute a new class of ore deposits recently described in the Tertiary Eastern Rhodopes of southeastern Bulgaria. The Stremtsi prospect investigated in this contribution is located in a distal location with respect to the main cluster of sedimentary-rock-hosted Ada Tepe and Rosino gold prospects of the Eastern Rhodopes. The Stremtsi prospect is hosted by a Priabonian clastic sedimentary rock sequence, overlying metamorphic rocks of the Central Rhodopean dome. The eastern part of the Stremtsi prospect contains high gold grades, and is characterized by a strongly silicified zone, including adularia and silicified dolomite blades, diagnostic for boiling conditions during ore formation in such low-sulphidation epithermal systems. The western part of the Stremtsi prospect consists of a barite, sphalerite and galena mineralization, associated with silicification, and illite and carbonate alteration. Both parts are underlain by subvertical quartz-carbonate-pyrite veins. Primary and secondary fluid inclusions, respectively, in dolomite and barite yield homogenization temperatures ranging between 90 and 247 °C. The salinity of primary inclusions in dolomite falls between 1.9 and 5.1 wt% NaCl equivalent, whereas the one of secondary fluid inclusions in barite ranges between 0.0 and 3.1 wt% NaCl equivalent. The variable homogenization temperatures reflect post-entrapment re-equilibration of the fluid inclusions, whereas the salinities were preserved and the inclusions in dolomite are interpreted in terms of dilution of a saline fluid in the western part of the Stremtsi prospect. The sulphur isotope compositions of sulphides from Stremtsi range mainly between −4 and +4‰. They are not diagnostic and can be attributed to magmatic, metamorphic, and sedimentary sources. They overlap with the main compositional range of sulphides from other sedimentary-rock-hosted epithermal systems and reveal the existence of hydrothermal fluids with common characteristics during ore formation throughout the Eastern Rhodopes. In addition, at Stremtsi, negative δ34S values between −42.6‰ and −8.8‰ combined with framboidal pyrite and elevated δ34S values of +7.0‰ to +19.5‰ support locally derived sulphur generated, respectively, by bacterial and thermochemical sulphate reduction. Modelling of O, C, and Sr isotope data of dolomite support the above described ore-forming processes. A positive correlation between δ18O (+12.7‰ to +19.7‰ V-SMOW) and δ13C (−2.8‰ to +1.5‰ V-PDB) values for dolomite from the eastern, silicified and gold-enriched zone of the Stremtsi prospect is satisfactorily modelled by boiling between 140 and 180 °C of a deeply circulating fluid characterized by δ18O and δ13C values of +5.5‰ V-SMOW and −1.5‰ V-PDB, respectively, and radiogenic strontium leached from the metamorphic basement rocks or its clastic counterparts in the Priabonian host rocks. By contrast, negative correlations of δ18O values (+13.4‰ to +23.3‰ V-SMOW) with δ13C values (−0.6‰ to −3.9‰ V-PDB) and 87Sr/86Sr ratios of dolomite from the western, barite and base metal-rich zone are adequately modelled by a shallow, low temperature (70 °C), intra-formational fluid recharged by meteoric water, which interacted with organic matter, that is, coal layers, and carbonate rocks from the Priabonian host sequence, mixing with a deep, moderate temperature (190 °C), 87Sr-enriched fluid characterized by δ18O and δ13C values of +5.5‰ V-SMOW and −1.5‰ V-PDB, respectively. Disequilibrium conditions revealed by sulphur isotope thermometry of two galena-barite pairs yielding discrepant temperatures of 190 and 306 °C are consistent with fluid mixing. A plateau age of 37.57±0.31 Ma obtained by 40Ar/39Ar dating of adularia from Stremtsi is interpreted as a maximum age because of the saddle-shaped age spectrum. Combined with 40Ar/39Ar age data from previous studies, it reveals that the sedimentary-rock-hosted epithermal prospects constitute an independent, regional and older ore-forming hydrothermal system, distinct from the younger volcanic-rock-hosted epithermal deposits of the Bulgarian and Greek Eastern Rhodopes.",
+                "fragments": [
+                    {
+                        "start": 36,
+                        "end": 47
+                    },
+                    {
+                        "start": 48,
+                        "end": 52
+                    },
+                    {
+                        "start": 311,
+                        "end": 322
+                    },
+                    {
+                        "start": 323,
+                        "end": 327
+                    },
+                    {
+                        "start": 451,
+                        "end": 462
+                    },
+                    {
+                        "start": 463,
+                        "end": 467
+                    },
+                    {
+                        "start": 1837,
+                        "end": 1848
+                    },
+                    {
+                        "start": 1929,
+                        "end": 1940
+                    },
+                    {
+                        "start": 1941,
+                        "end": 1945
+                    },
+                    {
+                        "start": 3956,
+                        "end": 3967
+                    },
+                    {
+                        "start": 3968,
+                        "end": 3972
+                    },
+                    {
+                        "start": 4115,
+                        "end": 4119
+                    }
+                ]
+            },
+            "paperAbstractTruncated": "Abstract Precious metal epithermal, sedimentary-rock-hosted prospects constitute a new class of ore deposits recently de...",
+            "authors": [
+                [
+                    {
+                        "name": "R. Moritz",
+                        "ids": [
+                            "145591748"
+                        ],
+                        "slug": "R.-Moritz",
+                        "bitmap$0": false
+                    },
+                    {
+                        "text": "R. Moritz",
+                        "fragments": []
+                    }
+                ],
+                [
+                    {
+                        "name": "Cécile Noverraz",
+                        "ids": [
+                            "104821843"
+                        ],
+                        "slug": "Cécile-Noverraz",
+                        "bitmap$0": false
+                    },
+                    {
+                        "text": "Cécile Noverraz",
+                        "fragments": []
+                    }
+                ],
+                [
+                    {
+                        "name": "István Márton",
+                        "ids": [
+                            "2060548420"
+                        ],
+                        "slug": "István-Márton",
+                        "bitmap$0": false
+                    },
+                    {
+                        "text": "István Márton",
+                        "fragments": []
+                    }
+                ],
+                [
+                    {
+                        "name": "P. Marchev",
+                        "ids": [
+                            "93373196"
+                        ],
+                        "slug": "P.-Marchev",
+                        "bitmap$0": false
+                    },
+                    {
+                        "text": "P. Marchev",
+                        "fragments": []
+                    }
+                ],
+                [
+                    {
+                        "name": "R. Spikings",
+                        "ids": [
+                            "9655199"
+                        ],
+                        "slug": "R.-Spikings",
+                        "bitmap$0": false
+                    },
+                    {
+                        "text": "R. Spikings",
+                        "fragments": []
+                    }
+                ],
+                [
+                    {
+                        "name": "D. Fontignie",
+                        "ids": [
+                            "104327647"
+                        ],
+                        "slug": "D.-Fontignie",
+                        "bitmap$0": false
+                    },
+                    {
+                        "text": "D. Fontignie",
+                        "fragments": []
+                    }
+                ],
+                [
+                    {
+                        "name": "J. Spangenberg",
+                        "ids": [
+                            "1751466"
+                        ],
+                        "slug": "J.-Spangenberg",
+                        "bitmap$0": false
+                    },
+                    {
+                        "text": "J. Spangenberg",
+                        "fragments": []
+                    }
+                ],
+                [
+                    {
+                        "name": "T. Vennemann",
+                        "ids": [
+                            "3666574"
+                        ],
+                        "slug": "T.-Vennemann",
+                        "bitmap$0": false
+                    },
+                    {
+                        "text": "T. Vennemann",
+                        "fragments": []
+                    }
+                ],
+                [
+                    {
+                        "name": "K. Kolev",
+                        "ids": [
+                            "153376053"
+                        ],
+                        "slug": "K.-Kolev",
+                        "bitmap$0": false
+                    },
+                    {
+                        "text": "K. Kolev",
+                        "fragments": []
+                    }
+                ],
+                [
+                    {
+                        "name": "S. Hasson",
+                        "ids": [
+                            "152850785"
+                        ],
+                        "slug": "S.-Hasson",
+                        "bitmap$0": false
+                    },
+                    {
+                        "text": "S. Hasson",
+                        "fragments": []
+                    }
+                ]
+            ],
+            "structuredAuthors": [
+                {
+                    "firstName": "R.",
+                    "middleNames": [],
+                    "lastName": "Moritz"
+                },
+                {
+                    "firstName": "Cécile",
+                    "middleNames": [],
+                    "lastName": "Noverraz"
+                },
+                {
+                    "firstName": "István",
+                    "middleNames": [],
+                    "lastName": "Márton"
+                },
+                {
+                    "firstName": "P.",
+                    "middleNames": [],
+                    "lastName": "Marchev"
+                },
+                {
+                    "firstName": "R.",
+                    "middleNames": [],
+                    "lastName": "Spikings"
+                },
+                {
+                    "firstName": "D.",
+                    "middleNames": [],
+                    "lastName": "Fontignie"
+                },
+                {
+                    "firstName": "J.",
+                    "middleNames": [],
+                    "lastName": "Spangenberg"
+                },
+                {
+                    "firstName": "T.",
+                    "middleNames": [],
+                    "lastName": "Vennemann"
+                },
+                {
+                    "firstName": "K.",
+                    "middleNames": [],
+                    "lastName": "Kolev"
+                },
+                {
+                    "firstName": "S.",
+                    "middleNames": [],
+                    "lastName": "Hasson"
+                }
+            ],
+            "year": {
+                "text": "2014",
+                "fragments": []
+            },
+            "venue": {
+                "text": "",
+                "fragments": []
+            },
+            "citationContexts": [],
+            "citationStats": {
+                "citedByBuckets": [
+                    {
+                        "startKey": 2014,
+                        "endKey": 2014,
+                        "count": 2
+                    },
+                    {
+                        "startKey": 2016,
+                        "endKey": 2016,
+                        "count": 3
+                    },
+                    {
+                        "startKey": 2017,
+                        "endKey": 2017,
+                        "count": 1
+                    },
+                    {
+                        "startKey": 2018,
+                        "endKey": 2018,
+                        "count": 2
+                    },
+                    {
+                        "startKey": 2019,
+                        "endKey": 2019,
+                        "count": 2
+                    }
+                ],
+                "keyCitedByBuckets": [],
+                "numCitations": 10,
+                "estNumCitations": 2.013177159590044,
+                "numReferences": 122,
+                "numKeyCitations": 1,
+                "numKeyReferences": 26,
+                "numViewableReferences": 122,
+                "keyCitationRate": 0.1,
+                "firstCitationVelocityYear": 2018,
+                "lastCitationVelocityYear": 2020
+            },
+            "earliestAcquisitionsDate": 1556111516.487000000,
+            "sources": [
+                "Highwire",
+                "MAG",
+                "MergedPDFExtraction",
+                "Unpaywall"
+            ],
+            "journal": {
+                "volume": "402",
+                "pages": "207 - 230"
+            },
+            "socialLinks": [],
+            "presentationIds": [],
+            "presentationUrls": [],
+            "doiInfo": {
+                "doi": "10.1144/SP402.7",
+                "doiUrl": "https://doi.org/10.1144/SP402.7"
+            },
+            "links": [
+                {
+                    "url": "https://doi.org/10.1144/SP402.7",
+                    "linkType": "publisher",
+                    "publisherName": "Geological Society"
+                }
+            ],
+            "primaryPaperLink": {
+                "url": "https://doi.org/10.1144/SP402.7",
+                "linkType": "publisher",
+                "publisherName": "Geological Society"
+            },
+            "alternatePaperLinks": [],
+            "entities": [],
+            "entityRelations": [],
+            "blogs": [],
+            "videos": [],
+            "githubReferences": [],
+            "faqs": [],
+            "scorecardStats": [
+                {
+                    "typeKey": "cited_by",
+                    "citationCount": 10,
+                    "keyCitationCount": 1,
+                    "score": 10.0
+                }
+            ],
+            "externalContentStats": [],
+            "fieldsOfStudy": [
+                "Geology"
+            ],
+            "pubDate": "2014-04-03",
+            "publisher": {
+                "name": "Geological Society"
+            },
+            "badges": []
+        },
+        {
+            "id": "bb3239359f6df605ca7e467aa4d8aa1186dcd2f2",
+            "corpusId": 129308723,
+            "title": {
+                "text": "Relationships between depositional environments, burial history and rock properties. Some principal aspects of diagenetic process in sedimentary basins",
+                "fragments": [
+                    {
+                        "start": 68,
+                        "end": 72
+                    },
+                    {
+                        "start": 133,
+                        "end": 144
+                    }
+                ]
+            },
+            "slug": "Relationships-between-depositional-environments,-of-Bjørlykke",
+            "paperAbstract": {
+                "text": "Abstract Sedimentology, sequence stratigraphy and facies analysis have for many years been disciplines rather separate from diagenesis which is concerned with processes occurring after deposition. Prediction of rock properties as a function of burial depth in sedimentary basins requires that these disciplines become more integrated. Compaction of sedimentary rocks is driven towards increased density (lower porosity) and higher rock velocity as functions of burial depth (effective stress) and temperature. Both the mechanical and chemical compaction of sedimentary rocks are functions of the primary textural and mineralogical composition of the sediments at the time of deposition and after shallow burial diagenesis. This is controlled by the provenance, transport and depositional environment. Many published sedimentological studies, however, contain little information about the mineralogical and textural composition of the sedimentary sequences. Near the surface, sediments are in an open geochemical system due to groundwater flow, diffusion and evaporation. Here their composition may be changed by mineral dissolution and transport of the dissolved components. At greater depth, below the reach of significant meteoric water flow, the porewater has an exceedingly low mobility and capacity to transport solids in solution. The porewater will gradually approach equilibrium with the minerals present, reducing the concentration gradients in the porewater and the potential for both advective and diffusive transport of solids in solution. Significant increased porosity (secondary porosity) is dependent on the dissolution and removal of solids in solution which may occur during freshwater flushing at shallow depth dissolving feldspar and precipitating kaolinite. Below the reach of freshwater the porewater flow is limited and represents a geochemically nearly closed system. The porewater will in most marine sediments be in equilibrium with calcite, even if it occurs in small amounts. Prediction of rock properties such as porosity and seismic velocity at a certain depth in a sedimentary basin must be based on the burial history (effective stress and temperature), but the primary mineralogical and textural composition of the sediments is equally important. Studies of depositional environments and provenance should therefore be integrated with diagenesis and be a part of basin analysis which is used for basin modelling.",
+                "fragments": [
+                    {
+                        "start": 211,
+                        "end": 215
+                    },
+                    {
+                        "start": 260,
+                        "end": 271
+                    },
+                    {
+                        "start": 349,
+                        "end": 360
+                    },
+                    {
+                        "start": 431,
+                        "end": 435
+                    },
+                    {
+                        "start": 557,
+                        "end": 568
+                    },
+                    {
+                        "start": 934,
+                        "end": 945
+                    },
+                    {
+                        "start": 2018,
+                        "end": 2022
+                    },
+                    {
+                        "start": 2096,
+                        "end": 2107
+                    }
+                ]
+            },
+            "paperAbstractTruncated": "Abstract Sedimentology, sequence stratigraphy and facies analysis have for many years been disciplines rather separate f...",
+            "authors": [
+                [
+                    {
+                        "name": "K. Bjørlykke",
+                        "ids": [
+                            "152408373"
+                        ],
+                        "slug": "K.-Bjørlykke",
+                        "bitmap$0": false
+                    },
+                    {
+                        "text": "K. Bjørlykke",
+                        "fragments": []
+                    }
+                ]
+            ],
+            "structuredAuthors": [
+                {
+                    "firstName": "K.",
+                    "middleNames": [],
+                    "lastName": "Bjørlykke"
+                }
+            ],
+            "year": {
+                "text": "2014",
+                "fragments": []
+            },
+            "venue": {
+                "text": "",
+                "fragments": []
+            },
+            "citationContexts": [],
+            "citationStats": {
+                "citedByBuckets": [
+                    {
+                        "startKey": 2015,
+                        "endKey": 2015,
+                        "count": 19
+                    },
+                    {
+                        "startKey": 2016,
+                        "endKey": 2016,
+                        "count": 27
+                    },
+                    {
+                        "startKey": 2017,
+                        "endKey": 2017,
+                        "count": 37
+                    },
+                    {
+                        "startKey": 2018,
+                        "endKey": 2018,
+                        "count": 38
+                    },
+                    {
+                        "startKey": 2019,
+                        "endKey": 2019,
+                        "count": 50
+                    },
+                    {
+                        "startKey": 2020,
+                        "endKey": 2020,
+                        "count": 54
+                    },
+                    {
+                        "startKey": 2021,
+                        "endKey": 2021,
+                        "count": 23
+                    }
+                ],
+                "keyCitedByBuckets": [],
+                "numCitations": 248,
+                "estNumCitations": 38.41131846868849,
+                "numReferences": 80,
+                "numKeyCitations": 16,
+                "numKeyReferences": 0,
+                "numViewableReferences": 80,
+                "keyCitationRate": 0.06451612903225806,
+                "citationVelocity": 47.333333333333336,
+                "citationAcceleration": 0.08,
+                "firstCitationVelocityYear": 2018,
+                "lastCitationVelocityYear": 2020
+            },
+            "earliestAcquisitionsDate": 1556111329.342000000,
+            "sources": [
+                "Unpaywall",
+                "MAG"
+            ],
+            "journal": {
+                "name": "Sedimentary Geology",
+                "volume": "301",
+                "pages": "1-14"
+            },
+            "socialLinks": [],
+            "presentationIds": [],
+            "presentationUrls": [],
+            "doiInfo": {
+                "doi": "10.1016/J.SEDGEO.2013.12.002",
+                "doiUrl": "https://doi.org/10.1016/J.SEDGEO.2013.12.002"
+            },
+            "links": [
+                {
+                    "url": "https://doi.org/10.1016/J.SEDGEO.2013.12.002",
+                    "linkType": "doi"
+                }
+            ],
+            "primaryPaperLink": {
+                "url": "https://doi.org/10.1016/J.SEDGEO.2013.12.002",
+                "linkType": "doi"
+            },
+            "alternatePaperLinks": [],
+            "entities": [],
+            "entityRelations": [],
+            "blogs": [],
+            "videos": [],
+            "githubReferences": [],
+            "faqs": [],
+            "scorecardStats": [
+                {
+                    "typeKey": "cited_by",
+                    "citationCount": 248,
+                    "keyCitationCount": 16,
+                    "score": 10.0
+                }
+            ],
+            "externalContentStats": [],
+            "fieldsOfStudy": [
+                "Geology"
+            ],
+            "pubDate": "2014-03-15",
+            "badges": []
+        }
+    ],
+    "query": {
+        "queryString": "sedimentary rock",
+        "pageSize": 10,
+        "page": 2,
+        "sort": "relevance",
+        "authors": [],
+        "coAuthors": [],
+        "venues": [],
+        "publicationTypes": [],
+        "requireViewablePdf": false,
+        "useFallbackRankerService": false,
+        "useFallbackSearchCluster": false,
+        "includeTldrs": true,
+        "getQuerySuggestions": false,
+        "fieldsOfStudy": [],
+        "externalContentTypes": [],
+        "performTitleMatch": true,
+        "hydrateWithDdb": true,
+        "includeBadges": true,
+        "safeFieldsOfStudy": []
+    },
+    "querySuggestions": [],
+    "totalPages": 69016,
+    "totalResults": 690167,
+    "stats": {
+        "coAuthors": [],
+        "authors": [
+            {
+                "value": "Karol Kamiński",
+                "documentCount": 391,
+                "unfilteredDocumentCount": 391
+            },
+            {
+                "value": "M. Santosh",
+                "documentCount": 390,
+                "unfilteredDocumentCount": 390
+            },
+            {
+                "value": "Charles O. Rock",
+                "documentCount": 312,
+                "unfilteredDocumentCount": 312
+            },
+            {
+                "value": "Gail A. Rock",
+                "documentCount": 309,
+                "unfilteredDocumentCount": 309
+            },
+            {
+                "value": "Wei Wang",
+                "documentCount": 264,
+                "unfilteredDocumentCount": 264
+            },
+            {
+                "value": "John Andrew Rock",
+                "documentCount": 261,
+                "unfilteredDocumentCount": 261
+            },
+            {
+                "value": "Stephen M. Rock",
+                "documentCount": 253,
+                "unfilteredDocumentCount": 253
+            },
+            {
+                "value": "Cheryl L Rock",
+                "documentCount": 232,
+                "unfilteredDocumentCount": 232
+            },
+            {
+                "value": "Marijke Hopman-Rock",
+                "documentCount": 224,
+                "unfilteredDocumentCount": 224
+            },
+            {
+                "value": "Kenneth L Rock",
+                "documentCount": 221,
+                "unfilteredDocumentCount": 221
+            }
+        ],
+        "venues": [
+            {
+                "value": "Nature",
+                "documentCount": 3266,
+                "unfilteredDocumentCount": 3266
+            },
+            {
+                "value": "Geological Society, London, Special Publications",
+                "documentCount": 1759,
+                "unfilteredDocumentCount": 1759
+            },
+            {
+                "value": "Arabian Journal of Geosciences",
+                "documentCount": 1735,
+                "unfilteredDocumentCount": 1735
+            },
+            {
+                "value": "Rock Mechanics and Rock Engineering",
+                "documentCount": 1722,
+                "unfilteredDocumentCount": 1722
+            },
+            {
+                "value": "The Journal of Geology",
+                "documentCount": 1630,
+                "unfilteredDocumentCount": 1630
+            },
+            {
+                "value": "Journal of the Geological Society",
+                "documentCount": 1305,
+                "unfilteredDocumentCount": 1305
+            },
+            {
+                "value": "Environmental Earth Sciences",
+                "documentCount": 1278,
+                "unfilteredDocumentCount": 1278
+            },
+            {
+                "value": "Science",
+                "documentCount": 1188,
+                "unfilteredDocumentCount": 1188
+            },
+            {
+                "value": "Quarterly Journal of the Geological Society of London",
+                "documentCount": 1028,
+                "unfilteredDocumentCount": 1028
+            },
+            {
+                "value": "Geotechnical and Geological Engineering",
+                "documentCount": 863,
+                "unfilteredDocumentCount": 863
+            }
+        ],
+        "years": [
+            {
+                "key": 1931,
+                "count": 142
+            },
+            {
+                "key": 1932,
+                "count": 186
+            },
+            {
+                "key": 1933,
+                "count": 194
+            },
+            {
+                "key": 1934,
+                "count": 176
+            },
+            {
+                "key": 1935,
+                "count": 213
+            },
+            {
+                "key": 1936,
+                "count": 214
+            },
+            {
+                "key": 1937,
+                "count": 215
+            },
+            {
+                "key": 1938,
+                "count": 241
+            },
+            {
+                "key": 1939,
+                "count": 212
+            },
+            {
+                "key": 1940,
+                "count": 208
+            },
+            {
+                "key": 1941,
+                "count": 205
+            },
+            {
+                "key": 1942,
+                "count": 187
+            },
+            {
+                "key": 1943,
+                "count": 177
+            },
+            {
+                "key": 1944,
+                "count": 168
+            },
+            {
+                "key": 1945,
+                "count": 139
+            },
+            {
+                "key": 1946,
+                "count": 191
+            },
+            {
+                "key": 1947,
+                "count": 246
+            },
+            {
+                "key": 1948,
+                "count": 231
+            },
+            {
+                "key": 1949,
+                "count": 296
+            },
+            {
+                "key": 1950,
+                "count": 329
+            },
+            {
+                "key": 1951,
+                "count": 325
+            },
+            {
+                "key": 1952,
+                "count": 366
+            },
+            {
+                "key": 1953,
+                "count": 378
+            },
+            {
+                "key": 1954,
+                "count": 424
+            },
+            {
+                "key": 1955,
+                "count": 474
+            },
+            {
+                "key": 1956,
+                "count": 512
+            },
+            {
+                "key": 1957,
+                "count": 525
+            },
+            {
+                "key": 1958,
+                "count": 675
+            },
+            {
+                "key": 1959,
+                "count": 781
+            },
+            {
+                "key": 1960,
+                "count": 828
+            },
+            {
+                "key": 1961,
+                "count": 873
+            },
+            {
+                "key": 1962,
+                "count": 922
+            },
+            {
+                "key": 1963,
+                "count": 1017
+            },
+            {
+                "key": 1964,
+                "count": 1241
+            },
+            {
+                "key": 1965,
+                "count": 1334
+            },
+            {
+                "key": 1966,
+                "count": 1448
+            },
+            {
+                "key": 1967,
+                "count": 1501
+            },
+            {
+                "key": 1968,
+                "count": 1767
+            },
+            {
+                "key": 1969,
+                "count": 1827
+            },
+            {
+                "key": 1970,
+                "count": 2389
+            },
+            {
+                "key": 1971,
+                "count": 2038
+            },
+            {
+                "key": 1972,
+                "count": 2216
+            },
+            {
+                "key": 1973,
+                "count": 2404
+            },
+            {
+                "key": 1974,
+                "count": 2600
+            },
+            {
+                "key": 1975,
+                "count": 2595
+            },
+            {
+                "key": 1976,
+                "count": 2747
+            },
+            {
+                "key": 1977,
+                "count": 2831
+            },
+            {
+                "key": 1978,
+                "count": 3093
+            },
+            {
+                "key": 1979,
+                "count": 3539
+            },
+            {
+                "key": 1980,
+                "count": 3586
+            },
+            {
+                "key": 1981,
+                "count": 3874
+            },
+            {
+                "key": 1982,
+                "count": 4003
+            },
+            {
+                "key": 1983,
+                "count": 4228
+            },
+            {
+                "key": 1984,
+                "count": 4471
+            },
+            {
+                "key": 1985,
+                "count": 4774
+            },
+            {
+                "key": 1986,
+                "count": 4709
+            },
+            {
+                "key": 1987,
+                "count": 5089
+            },
+            {
+                "key": 1988,
+                "count": 5563
+            },
+            {
+                "key": 1989,
+                "count": 5408
+            },
+            {
+                "key": 1990,
+                "count": 5906
+            },
+            {
+                "key": 1991,
+                "count": 6151
+            },
+            {
+                "key": 1992,
+                "count": 6305
+            },
+            {
+                "key": 1993,
+                "count": 6859
+            },
+            {
+                "key": 1994,
+                "count": 6598
+            },
+            {
+                "key": 1995,
+                "count": 7001
+            },
+            {
+                "key": 1996,
+                "count": 7210
+            },
+            {
+                "key": 1997,
+                "count": 7348
+            },
+            {
+                "key": 1998,
+                "count": 7866
+            },
+            {
+                "key": 1999,
+                "count": 8534
+            },
+            {
+                "key": 2000,
+                "count": 10381
+            },
+            {
+                "key": 2001,
+                "count": 11428
+            },
+            {
+                "key": 2002,
+                "count": 12585
+            },
+            {
+                "key": 2003,
+                "count": 14024
+            },
+            {
+                "key": 2004,
+                "count": 16285
+            },
+            {
+                "key": 2005,
+                "count": 17041
+            },
+            {
+                "key": 2006,
+                "count": 19542
+            },
+            {
+                "key": 2007,
+                "count": 20311
+            },
+            {
+                "key": 2008,
+                "count": 21445
+            },
+            {
+                "key": 2009,
+                "count": 24067
+            },
+            {
+                "key": 2010,
+                "count": 26000
+            },
+            {
+                "key": 2011,
+                "count": 28155
+            },
+            {
+                "key": 2012,
+                "count": 29213
+            },
+            {
+                "key": 2013,
+                "count": 31328
+            },
+            {
+                "key": 2014,
+                "count": 30266
+            },
+            {
+                "key": 2015,
+                "count": 29580
+            },
+            {
+                "key": 2016,
+                "count": 27924
+            },
+            {
+                "key": 2017,
+                "count": 28459
+            },
+            {
+                "key": 2018,
+                "count": 26782
+            },
+            {
+                "key": 2019,
+                "count": 27631
+            },
+            {
+                "key": 2020,
+                "count": 27237
+            },
+            {
+                "key": 2021,
+                "count": 10083
+            }
+        ],
+        "filteredYears": [
+            {
+                "key": 1931,
+                "count": 142
+            },
+            {
+                "key": 1932,
+                "count": 186
+            },
+            {
+                "key": 1933,
+                "count": 194
+            },
+            {
+                "key": 1934,
+                "count": 176
+            },
+            {
+                "key": 1935,
+                "count": 213
+            },
+            {
+                "key": 1936,
+                "count": 214
+            },
+            {
+                "key": 1937,
+                "count": 215
+            },
+            {
+                "key": 1938,
+                "count": 241
+            },
+            {
+                "key": 1939,
+                "count": 212
+            },
+            {
+                "key": 1940,
+                "count": 208
+            },
+            {
+                "key": 1941,
+                "count": 205
+            },
+            {
+                "key": 1942,
+                "count": 187
+            },
+            {
+                "key": 1943,
+                "count": 177
+            },
+            {
+                "key": 1944,
+                "count": 168
+            },
+            {
+                "key": 1945,
+                "count": 139
+            },
+            {
+                "key": 1946,
+                "count": 191
+            },
+            {
+                "key": 1947,
+                "count": 246
+            },
+            {
+                "key": 1948,
+                "count": 231
+            },
+            {
+                "key": 1949,
+                "count": 296
+            },
+            {
+                "key": 1950,
+                "count": 329
+            },
+            {
+                "key": 1951,
+                "count": 325
+            },
+            {
+                "key": 1952,
+                "count": 366
+            },
+            {
+                "key": 1953,
+                "count": 378
+            },
+            {
+                "key": 1954,
+                "count": 424
+            },
+            {
+                "key": 1955,
+                "count": 474
+            },
+            {
+                "key": 1956,
+                "count": 512
+            },
+            {
+                "key": 1957,
+                "count": 525
+            },
+            {
+                "key": 1958,
+                "count": 675
+            },
+            {
+                "key": 1959,
+                "count": 781
+            },
+            {
+                "key": 1960,
+                "count": 828
+            },
+            {
+                "key": 1961,
+                "count": 873
+            },
+            {
+                "key": 1962,
+                "count": 922
+            },
+            {
+                "key": 1963,
+                "count": 1017
+            },
+            {
+                "key": 1964,
+                "count": 1241
+            },
+            {
+                "key": 1965,
+                "count": 1334
+            },
+            {
+                "key": 1966,
+                "count": 1448
+            },
+            {
+                "key": 1967,
+                "count": 1501
+            },
+            {
+                "key": 1968,
+                "count": 1767
+            },
+            {
+                "key": 1969,
+                "count": 1827
+            },
+            {
+                "key": 1970,
+                "count": 2389
+            },
+            {
+                "key": 1971,
+                "count": 2038
+            },
+            {
+                "key": 1972,
+                "count": 2216
+            },
+            {
+                "key": 1973,
+                "count": 2404
+            },
+            {
+                "key": 1974,
+                "count": 2600
+            },
+            {
+                "key": 1975,
+                "count": 2595
+            },
+            {
+                "key": 1976,
+                "count": 2747
+            },
+            {
+                "key": 1977,
+                "count": 2831
+            },
+            {
+                "key": 1978,
+                "count": 3093
+            },
+            {
+                "key": 1979,
+                "count": 3539
+            },
+            {
+                "key": 1980,
+                "count": 3586
+            },
+            {
+                "key": 1981,
+                "count": 3874
+            },
+            {
+                "key": 1982,
+                "count": 4003
+            },
+            {
+                "key": 1983,
+                "count": 4228
+            },
+            {
+                "key": 1984,
+                "count": 4471
+            },
+            {
+                "key": 1985,
+                "count": 4774
+            },
+            {
+                "key": 1986,
+                "count": 4709
+            },
+            {
+                "key": 1987,
+                "count": 5089
+            },
+            {
+                "key": 1988,
+                "count": 5563
+            },
+            {
+                "key": 1989,
+                "count": 5408
+            },
+            {
+                "key": 1990,
+                "count": 5906
+            },
+            {
+                "key": 1991,
+                "count": 6151
+            },
+            {
+                "key": 1992,
+                "count": 6305
+            },
+            {
+                "key": 1993,
+                "count": 6859
+            },
+            {
+                "key": 1994,
+                "count": 6598
+            },
+            {
+                "key": 1995,
+                "count": 7001
+            },
+            {
+                "key": 1996,
+                "count": 7210
+            },
+            {
+                "key": 1997,
+                "count": 7348
+            },
+            {
+                "key": 1998,
+                "count": 7866
+            },
+            {
+                "key": 1999,
+                "count": 8534
+            },
+            {
+                "key": 2000,
+                "count": 10381
+            },
+            {
+                "key": 2001,
+                "count": 11428
+            },
+            {
+                "key": 2002,
+                "count": 12585
+            },
+            {
+                "key": 2003,
+                "count": 14024
+            },
+            {
+                "key": 2004,
+                "count": 16285
+            },
+            {
+                "key": 2005,
+                "count": 17041
+            },
+            {
+                "key": 2006,
+                "count": 19542
+            },
+            {
+                "key": 2007,
+                "count": 20311
+            },
+            {
+                "key": 2008,
+                "count": 21445
+            },
+            {
+                "key": 2009,
+                "count": 24067
+            },
+            {
+                "key": 2010,
+                "count": 26000
+            },
+            {
+                "key": 2011,
+                "count": 28155
+            },
+            {
+                "key": 2012,
+                "count": 29213
+            },
+            {
+                "key": 2013,
+                "count": 31328
+            },
+            {
+                "key": 2014,
+                "count": 30266
+            },
+            {
+                "key": 2015,
+                "count": 29580
+            },
+            {
+                "key": 2016,
+                "count": 27924
+            },
+            {
+                "key": 2017,
+                "count": 28459
+            },
+            {
+                "key": 2018,
+                "count": 26782
+            },
+            {
+                "key": 2019,
+                "count": 27631
+            },
+            {
+                "key": 2020,
+                "count": 27237
+            },
+            {
+                "key": 2021,
+                "count": 10083
+            }
+        ],
+        "countOfPapersWithViewablePdf": 103897,
+        "publicationTypes": [
+            {
+                "value": "Reviews",
+                "documentCount": 56142,
+                "unfilteredDocumentCount": 56142
+            },
+            {
+                "value": "JournalArticle",
+                "documentCount": 38598,
+                "unfilteredDocumentCount": 38598
+            },
+            {
+                "value": "Conference",
+                "documentCount": 2812,
+                "unfilteredDocumentCount": 2812
+            },
+            {
+                "value": "Review",
+                "documentCount": 2073,
+                "unfilteredDocumentCount": 2073
+            },
+            {
+                "value": "Study",
+                "documentCount": 1744,
+                "unfilteredDocumentCount": 1744
+            },
+            {
+                "value": "LettersAndComments",
+                "documentCount": 1016,
+                "unfilteredDocumentCount": 1016
+            },
+            {
+                "value": "CaseReport",
+                "documentCount": 846,
+                "unfilteredDocumentCount": 846
+            },
+            {
+                "value": "Editorial",
+                "documentCount": 604,
+                "unfilteredDocumentCount": 604
+            },
+            {
+                "value": "News",
+                "documentCount": 416,
+                "unfilteredDocumentCount": 416
+            },
+            {
+                "value": "ClinicalTrial",
+                "documentCount": 333,
+                "unfilteredDocumentCount": 333
+            }
+        ],
+        "fieldsOfStudy": [
+            {
+                "value": "Geology",
+                "documentCount": 344105,
+                "unfilteredDocumentCount": 344105
+            },
+            {
+                "value": "Engineering",
+                "documentCount": 52681,
+                "unfilteredDocumentCount": 52681
+            },
+            {
+                "value": "Medicine",
+                "documentCount": 38781,
+                "unfilteredDocumentCount": 38781
+            },
+            {
+                "value": "Materials Science",
+                "documentCount": 38414,
+                "unfilteredDocumentCount": 38414
+            },
+            {
+                "value": "Chemistry",
+                "documentCount": 28928,
+                "unfilteredDocumentCount": 28928
+            },
+            {
+                "value": "Biology",
+                "documentCount": 27294,
+                "unfilteredDocumentCount": 27294
+            },
+            {
+                "value": "Geography",
+                "documentCount": 25960,
+                "unfilteredDocumentCount": 25960
+            },
+            {
+                "value": "Environmental Science",
+                "documentCount": 22627,
+                "unfilteredDocumentCount": 22627
+            },
+            {
+                "value": "Art",
+                "documentCount": 15831,
+                "unfilteredDocumentCount": 15831
+            },
+            {
+                "value": "Physics",
+                "documentCount": 10998,
+                "unfilteredDocumentCount": 10998
+            }
+        ],
+        "totalCountAfterFilters": 660729
+    },
+    "matchedAuthors": [],
+    "matchedPresentations": [
+        {
+            "contentType": "PRESENTATION",
+            "id": "2115a9d7631dc908d74010fda344487f680a3457",
+            "title": "Sedimentary Rocks",
+            "authors": [
+                "Coquina fossil"
+            ],
+            "published": 1508471697.784131000,
+            "url": "https://pdfs.semanticscholar.org/presentation/2115/a9d7631dc908d74010fda344487f680a3457.pdf"
+        },
+        {
+            "contentType": "PRESENTATION",
+            "id": "22296eff8f639ea6d9368ad49293aed1ea2ed14e",
+            "title": "Sedimentary Rocks",
+            "authors": [],
+            "published": 1454402217.578000000,
+            "url": "https://pdfs.semanticscholar.org/presentation/2229/6eff8f639ea6d9368ad49293aed1ea2ed14e.pdf"
+        },
+        {
+            "contentType": "PRESENTATION",
+            "id": "1b7e5097b818d5fd80a1b94582716b530fa5657d",
+            "title": "Ecological Comparisons of Sedimentary Shores",
+            "authors": [],
+            "published": 1590248785.903133000,
+            "url": "https://pdfs.semanticscholar.org/presentation/1b7e/5097b818d5fd80a1b94582716b530fa5657d.pdf"
+        },
+        {
+            "contentType": "PRESENTATION",
+            "id": "a57ee1525b921a1905bcb6a74cc37bbb94c3233c",
+            "title": "Sedimentary Record Of Sea Level Change",
+            "authors": [],
+            "published": 1604291625.472900000,
+            "url": "https://pdfs.semanticscholar.org/presentation/a57e/e1525b921a1905bcb6a74cc37bbb94c3233c.pdf"
+        },
+        {
+            "contentType": "PRESENTATION",
+            "id": "4d6e96c45c59d4d878e665ba21337e0d2e461c2c",
+            "title": "Lovers Rock",
+            "authors": [
+                "Lovers Rock",
+                "John Goto"
+            ],
+            "published": 1567531933.998000000,
+            "url": "https://pdfs.semanticscholar.org/presentation/4d6e/96c45c59d4d878e665ba21337e0d2e461c2c.pdf"
+        },
+        {
+            "contentType": "PRESENTATION",
+            "id": "7d7abb49383cd241b1e90bbaba3c22588e749efe",
+            "title": "Rock Solid",
+            "authors": [],
+            "published": 1509099887.010264000,
+            "url": "https://pdfs.semanticscholar.org/presentation/7d7a/bb49383cd241b1e90bbaba3c22588e749efe.pdf"
+        },
+        {
+            "contentType": "PRESENTATION",
+            "id": "a4d1f6af81e47dbdbe283011f4ffa2a60cc96a19",
+            "title": "Design Requirements for Commercial Sedimentary Geothermal Projects",
+            "authors": [
+                "Chad Augustine"
+            ],
+            "published": 1578882274.085514000,
+            "url": "https://pdfs.semanticscholar.org/presentation/a4d1/f6af81e47dbdbe283011f4ffa2a60cc96a19.pdf"
+        },
+        {
+            "contentType": "PRESENTATION",
+            "id": "13281b1aae052245b66d428d0873654882bb88e9",
+            "title": "ROCK SUPPORT SYSTEM IN INTERACTION WITH THE ROCK",
+            "authors": [
+                "P-I. Marklund",
+                "D. Sandström",
+                "L. Malmgren"
+            ],
+            "published": 1578142827.352409000,
+            "url": "https://pdfs.semanticscholar.org/presentation/1328/1b1aae052245b66d428d0873654882bb88e9.pdf"
+        },
+        {
+            "contentType": "PRESENTATION",
+            "id": "686ff1625836b5d00b10e1aab891341f7eb9a1aa",
+            "title": "The Rock Cycle",
+            "authors": [],
+            "published": 1558155932.475750000,
+            "url": "https://pdfs.semanticscholar.org/presentation/686f/f1625836b5d00b10e1aab891341f7eb9a1aa.pdf"
+        },
+        {
+            "contentType": "PRESENTATION",
+            "id": "439ad0efc8e8dc640b7556aba7b7356747494617",
+            "title": "ROCK PAPER & SCISSORS",
+            "authors": [
+                "ALEX BRADY",
+                "-Alex Brady",
+                "DINO- INSPIRED",
+                "WIND TURBINES",
+                "FASHION DESIGNERS",
+                "Stella McCartney",
+                "Coco Chanel",
+                "LUCIA KOCH",
+                "CHARLES YOUNG",
+                "ALLISON MAY KIPHUTH",
+                "Joshua Becker"
+            ],
+            "published": 1561315343.479358000,
+            "url": "https://pdfs.semanticscholar.org/presentation/439a/d0efc8e8dc640b7556aba7b7356747494617.pdf"
+        }
+    ]
+}
